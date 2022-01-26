@@ -1,6 +1,7 @@
 <!-- For more documentation on adding state see: https://markojs.com/docs/getting-started/#adding-state -->
 
 import seedData from '../../seed.json';
+<!-- import TABS from '../../utilities'; -->
 
 class {
   onCreate() {
@@ -28,12 +29,14 @@ style {
   }
 }
 
+
+
 <div class="container">
   <header>
     <img.logo src="../../assets/gotab-logo.svg" alt="GoTab"/>
   </header>
   <main class="col-12">
-    <h1 class="fw-lighter text-center pt-3">Edit <code class="text-primary">./pages/components/content.marko</code> and save to reload.</h1>
+    <h1 class="fw-lighter text-center pt-3">TABS</h1>
     <div class="w-100 d-flex flex-column justify-content-center align-items-center">
       <if(state.previewSeedData)>
         $ {
@@ -43,7 +46,7 @@ style {
         <p class="p-3 m-3 border rounded">Open your developer tools to see the data in the console.</p>
       </if>
       <else>
-        <button on-click('onPreviewSeedData') class="btn btn-outline-primary">View Dataset</button>
+        <!-- <button on-click('onPreviewSeedData') class="btn btn-outline-primary">View Dataset</button> -->
       </else>
     </div>
   </main>
