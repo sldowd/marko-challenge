@@ -5671,6 +5671,7 @@ static const TABS =[
     }
 ]
 
+
 static function toDollars(cents) {
     var num = cents;
     var dollars = num / 100;
@@ -5695,6 +5696,19 @@ static function toDollars(cents) {
     var totalNet = totalSubtotal + totalAutograt + totalTax
 } -->
 
+
+//I also tried using the function solution from the technical questions
+<!-- static function findAvg(...TABS) {
+  let sales = [ ];
+    for (var i = 0; i < TABS.length; i++) {
+      sales.push(results[i].total)
+    };
+  const reducer = (previousValue, currentValue) => previousValue + currentValue;
+	var totalGross = sales.reduce(reducer)/sales.length
+  return totalGross
+}			 -->
+
+
 //Here I was able to get the tabs to display as cards however this was not part of the assignment.
 <div class="container">
     <div class="row align-content-center justify-content-center" style="margin: 2px 2px;">
@@ -5715,17 +5729,17 @@ static function toDollars(cents) {
     </div>
 </div>
 
-//This was my attempt at displaying information totals from totals() above
-<!-- <div class="card">
+//Here I was going to display information totals from totals() above
+<div class="card">
     <div class="card-body"> 
         <h5 class="card-title">Totals</h5>
         <ul style="list-style-type: none;">
-            <li class="card-text">Gross Sales: ${toDollars(totalGross)}</li>
-            <li class="card-text">Net Sales: ${toDollars(totalNet)}</li>
-            <li class="card-text">Total Autogratuity: ${toDollars(totalAutograt)}</li>
-            <li class="card-text">Total Tips: ${toDollars(totalTips)}</li>
-            <li class="card-text">Total Tax: ${toDollars(totalTax)}</li>
+            <li class="card-text">Gross Sales: </li>
+            <li class="card-text">Net Sales: </li>
+            <li class="card-text">Total Tax: </li>
+            <li class="card-text">Total Autogratuity: </li>
+            <li class="card-text">Total Tips: </li>
         </ul>
     
     </div>
-</div> -->
+</div>
