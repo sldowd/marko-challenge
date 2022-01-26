@@ -1,0 +1,5674 @@
+{
+  "tabs": [
+    {
+      "id": 9096004,
+      "name": "AURORA MARSHALL",
+      "subtotal": 1500,
+      "tax": 104,
+      "autogratuity": 225,
+      "tip": 105,
+      "total": 1829,
+      "timestamp": "2021-10-13T01:51:14.912Z",
+      "items": [
+        {
+          "id": 31599650,
+          "name": "Oktoberfest Marzen",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31599663,
+          "name": "Hobo Imperial Stout with Vanilla Bean",
+          "price": 800,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9095725,
+      "name": "LILY HICKS",
+      "subtotal": 500,
+      "tax": 35,
+      "autogratuity": 75,
+      "tip": 35,
+      "total": 610,
+      "timestamp": "2021-10-13T01:35:47.655Z",
+      "items": [
+        {
+          "id": 31598908,
+          "name": "Guest Draft: Ono Banana Hammock Hefeweizen",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9095612,
+      "name": "LEO RUSSELL",
+      "subtotal": 700,
+      "tax": 48,
+      "autogratuity": 105,
+      "tip": 49,
+      "total": 853,
+      "timestamp": "2021-10-13T01:29:14.065Z",
+      "items": [
+        {
+          "id": 31598696,
+          "name": "Oktoberfest Marzen",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9095414,
+      "name": "NOVA KENNEDY",
+      "subtotal": 600,
+      "tax": 41,
+      "autogratuity": 90,
+      "tip": 73,
+      "total": 731,
+      "timestamp": "2021-10-13T01:17:42.722Z",
+      "items": [
+        {
+          "id": 31598193,
+          "name": "Vienna, VA Lager",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9095402,
+      "name": "SOFIA POWELL",
+      "subtotal": 1900,
+      "tax": 131,
+      "autogratuity": 285,
+      "tip": 228,
+      "total": 2316,
+      "timestamp": "2021-10-13T01:16:57.464Z",
+      "items": [
+        {
+          "id": 31598152,
+          "name": "Wasser Pilsner",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31598162,
+          "name": "Fog IPA",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31598196,
+          "name": "Vienna, VA Lager",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9095242,
+      "name": "STELLA YOUNG",
+      "subtotal": 600,
+      "tax": 41,
+      "autogratuity": 90,
+      "tip": 42,
+      "total": 731,
+      "timestamp": "2021-10-13T01:08:19.320Z",
+      "items": [
+        {
+          "id": 31597774,
+          "name": "Fog IPA",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 31597849,
+          "name": "Stop, Drop, and Doppelbock",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9095080,
+      "name": "NOVA DAY",
+      "subtotal": 700,
+      "tax": 48,
+      "autogratuity": 105,
+      "tip": 49,
+      "total": 853,
+      "timestamp": "2021-10-13T00:59:39.742Z",
+      "items": [
+        {
+          "id": 31597416,
+          "name": "Blackberry Gose",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094839,
+      "name": "STELLA FOREMAN",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 21,
+      "total": 366,
+      "timestamp": "2021-10-13T00:45:26.559Z",
+      "items": [
+        {
+          "id": 31596869,
+          "name": "Maine Root Mexicane Cola (16oz)",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094673,
+      "name": "DANIEL MONTGOMERY",
+      "subtotal": 470,
+      "tax": 32,
+      "autogratuity": 71,
+      "tip": 33,
+      "total": 573,
+      "timestamp": "2021-10-13T00:36:06.018Z",
+      "items": [
+        {
+          "id": 31596449,
+          "name": "Cold Brew",
+          "price": 470,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094521,
+      "name": "DANIEL LAWRENCE",
+      "subtotal": 1000,
+      "tax": 69,
+      "autogratuity": 150,
+      "tip": 121,
+      "total": 1219,
+      "timestamp": "2021-10-13T00:27:29.509Z",
+      "items": [
+        {
+          "id": 31596064,
+          "name": "Latte",
+          "price": 575,
+          "quantity": 1
+        },
+        {
+          "id": 31596077,
+          "name": "Cappuccino",
+          "price": 425,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094438,
+      "name": "GRAYSON CALDWELL",
+      "subtotal": 900,
+      "tax": 62,
+      "autogratuity": 135,
+      "tip": 63,
+      "total": 1097,
+      "timestamp": "2021-10-13T00:22:55.755Z",
+      "items": [
+        {
+          "id": 31595876,
+          "name": "Grilled Cheese",
+          "price": 900,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094416,
+      "name": "GRACE EDWARDS",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 21,
+      "total": 366,
+      "timestamp": "2021-10-13T00:21:46.618Z",
+      "items": [
+        {
+          "id": 31595822,
+          "name": "Maine Root Mexicane Cola (16oz)",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094408,
+      "name": "ELLIE COX",
+      "subtotal": 2100,
+      "tax": 145,
+      "autogratuity": 315,
+      "tip": 147,
+      "total": 2560,
+      "timestamp": "2021-10-13T00:21:01.746Z",
+      "items": [
+        {
+          "id": 31595832,
+          "name": "Grilled Cheese",
+          "price": 1100,
+          "quantity": 1
+        },
+        {
+          "id": 31595902,
+          "name": "Rosé, Chloe",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094345,
+      "name": "SEBASTIAN ROBERTSON",
+      "subtotal": 2800,
+      "tax": 193,
+      "autogratuity": 420,
+      "tip": 336,
+      "total": 3413,
+      "timestamp": "2021-10-13T00:17:32.865Z",
+      "items": [
+        {
+          "id": 31595736,
+          "name": "Build Your Own Flight",
+          "price": 1100,
+          "quantity": 1
+        },
+        {
+          "id": 31595780,
+          "name": "Guavarita",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "id": 31595807,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094339,
+      "name": "LILY HARVEY",
+      "subtotal": 2000,
+      "tax": 138,
+      "autogratuity": 300,
+      "tip": 200,
+      "total": 2438,
+      "timestamp": "2021-10-13T00:16:56.465Z",
+      "items": [
+        {
+          "id": 31595636,
+          "name": "Bourbon Spiked Pour Over Coffee",
+          "price": 1000,
+          "quantity": 1
+        },
+        {
+          "id": 31595672,
+          "name": "Grilled Cheese",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094329,
+      "name": "DAVID LANE",
+      "subtotal": 2300,
+      "tax": 159,
+      "autogratuity": 345,
+      "tip": 230,
+      "total": 2804,
+      "timestamp": "2021-10-13T00:16:19.577Z",
+      "items": [
+        {
+          "id": 31595635,
+          "name": "Cabernet Sauvignon, Tribute",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "id": 31595661,
+          "name": "Cascara Old Fashioned",
+          "price": 1100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094312,
+      "name": "ELI FOWLER",
+      "subtotal": 1300,
+      "tax": 90,
+      "autogratuity": 195,
+      "tip": 91,
+      "total": 1585,
+      "timestamp": "2021-10-13T00:15:23.540Z",
+      "items": [
+        {
+          "id": 31595671,
+          "name": "Kid's Chicken Tenders",
+          "price": 1000,
+          "quantity": 1
+        },
+        {
+          "id": 31595692,
+          "name": "Apple Cinnamon Breakfast Loaf Slice",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094298,
+      "name": "EVELYN MEYER",
+      "subtotal": 1550,
+      "tax": 107,
+      "autogratuity": 233,
+      "tip": 109,
+      "total": 1890,
+      "timestamp": "2021-10-13T00:14:28.735Z",
+      "items": [
+        {
+          "id": 31595655,
+          "name": "Commons Nachos",
+          "price": 1250,
+          "quantity": 1
+        },
+        {
+          "id": 31595663,
+          "name": "Apple Cinnamon Breakfast Loaf Slice",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094274,
+      "name": "ELEANOR WEBB",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 84,
+      "total": 1463,
+      "timestamp": "2021-10-13T00:12:38.424Z",
+      "items": [
+        {
+          "id": 31595420,
+          "name": "Cabernet Sauvignon, Tribute",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094170,
+      "name": "HENRY VARGAS",
+      "subtotal": 1725,
+      "tax": 119,
+      "autogratuity": 259,
+      "tip": 121,
+      "total": 2103,
+      "timestamp": "2021-10-13T00:07:31.188Z",
+      "items": [
+        {
+          "id": 31595293,
+          "name": "Spicy Pepper Ham Sandwich",
+          "price": 1300,
+          "quantity": 1
+        },
+        {
+          "id": 31595346,
+          "name": "Latte",
+          "price": 425,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094140,
+      "name": "CARTER COLLINS",
+      "subtotal": 1000,
+      "tax": 69,
+      "autogratuity": 150,
+      "tip": 70,
+      "total": 1219,
+      "timestamp": "2021-10-13T00:05:53.650Z",
+      "items": [
+        {
+          "id": 31595372,
+          "name": "Grilled Cheese",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094120,
+      "name": "ELLIE BREWER",
+      "subtotal": 1100,
+      "tax": 76,
+      "autogratuity": 165,
+      "tip": 93,
+      "total": 1341,
+      "timestamp": "2021-10-13T00:04:30.158Z",
+      "items": [
+        {
+          "id": 31595042,
+          "name": "Cascara Old Fashioned",
+          "price": 1100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094039,
+      "name": "JOHN TERRY",
+      "subtotal": 1600,
+      "tax": 110,
+      "autogratuity": 240,
+      "tip": 160,
+      "total": 1950,
+      "timestamp": "2021-10-12T23:58:52.745Z",
+      "items": [
+        {
+          "id": 31595085,
+          "name": "Maine Root Lemonade (16oz)",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 31595116,
+          "name": "Shenandoah Smoked Chicken Toast",
+          "price": 1300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094031,
+      "name": "EMILIA CARTER",
+      "subtotal": 575,
+      "tax": 40,
+      "autogratuity": 86,
+      "tip": 40,
+      "total": 701,
+      "timestamp": "2021-10-12T23:58:15.085Z",
+      "items": [
+        {
+          "id": 31594939,
+          "name": "Chai Tea Latte",
+          "price": 575,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094010,
+      "name": "CAMILA LINDSAY",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 21,
+      "total": 366,
+      "timestamp": "2021-10-12T23:57:41.349Z",
+      "items": [
+        {
+          "id": 31594788,
+          "name": "Maine Root Mexicane Cola (16oz)",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9094005,
+      "name": "JOSEPH ",
+      "subtotal": 1000,
+      "tax": 69,
+      "autogratuity": 150,
+      "tip": 70,
+      "total": 1219,
+      "timestamp": "2021-10-12T23:57:20.969Z",
+      "items": [
+        {
+          "id": 31594770,
+          "name": "Fried Pickle Chips",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31594772,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093947,
+      "name": "HENRY BISHOP",
+      "subtotal": 1000,
+      "tax": 69,
+      "autogratuity": 150,
+      "tip": 70,
+      "total": 1219,
+      "timestamp": "2021-10-12T23:53:42.176Z",
+      "items": [
+        {
+          "id": 31594966,
+          "name": "Blue Bee 2018 Aragon 1904 Cider",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093910,
+      "name": "HENRY GRIFFIN",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 21,
+      "total": 366,
+      "timestamp": "2021-10-12T23:51:23.533Z",
+      "items": [
+        {
+          "id": 31594670,
+          "name": "Maine Root Root Beer (16oz)",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093887,
+      "name": "MATTHEW DAVIS",
+      "subtotal": 4225,
+      "tax": 292,
+      "autogratuity": 634,
+      "tip": 296,
+      "total": 5151,
+      "timestamp": "2021-10-12T23:49:40.165Z",
+      "items": [
+        {
+          "id": 31594533,
+          "name": "Pumpkin Pie Chai",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31594621,
+          "name": "Daily Brewed Iced Tea",
+          "price": 525,
+          "quantity": 1
+        },
+        {
+          "id": 31594654,
+          "name": "Macaroni & Cheese",
+          "price": 1300,
+          "quantity": 2
+        },
+        {
+          "id": 31594698,
+          "name": "Fried Pickle Chips",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093883,
+      "name": "LUCA HOFFMAN",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 84,
+      "total": 1463,
+      "timestamp": "2021-10-12T23:49:29.000Z",
+      "items": [
+        {
+          "id": 31594601,
+          "name": "Grilled Cheese",
+          "price": 900,
+          "quantity": 1
+        },
+        {
+          "id": 31594628,
+          "name": "Maine Root Mexicane Cola (16oz)",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093870,
+      "name": "ETHAN JACKSON",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 21,
+      "total": 366,
+      "timestamp": "2021-10-12T23:48:58.288Z",
+      "items": [
+        {
+          "id": 31594496,
+          "name": "Maine Root Mexicane Cola (16oz)",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093854,
+      "name": "HARPER KELLEY",
+      "subtotal": 500,
+      "tax": 35,
+      "autogratuity": 75,
+      "tip": 60,
+      "total": 610,
+      "timestamp": "2021-10-12T23:48:13.248Z",
+      "items": [
+        {
+          "id": 31594424,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093766,
+      "name": "MAYA HANSON",
+      "subtotal": 2200,
+      "tax": 152,
+      "autogratuity": 330,
+      "tip": 154,
+      "total": 2682,
+      "timestamp": "2021-10-12T23:43:15.508Z",
+      "items": [
+        {
+          "id": 31594230,
+          "name": "Buddha Bowl",
+          "price": 1300,
+          "quantity": 1
+        },
+        {
+          "id": 31594250,
+          "name": "Market Salad",
+          "price": 900,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093763,
+      "name": "HARPER MITCHELL",
+      "subtotal": 2200,
+      "tax": 152,
+      "autogratuity": 330,
+      "tip": 154,
+      "total": 2682,
+      "timestamp": "2021-10-12T23:43:07.955Z",
+      "items": [
+        {
+          "id": 31595273,
+          "name": "Blue Bee 2018 Aragon 1904 Cider",
+          "price": 1000,
+          "quantity": 1
+        },
+        {
+          "id": 31594417,
+          "name": "Chicken Wings",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093530,
+      "name": "PENELOPE WATSON",
+      "subtotal": 1600,
+      "tax": 110,
+      "autogratuity": 240,
+      "tip": 112,
+      "total": 1950,
+      "timestamp": "2021-10-12T23:30:11.889Z",
+      "items": [
+        {
+          "id": 31593744,
+          "name": "Pimento Burger",
+          "price": 1600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093504,
+      "name": "MILA FOWLER",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 84,
+      "total": 1463,
+      "timestamp": "2021-10-12T23:28:41.466Z",
+      "items": [
+        {
+          "id": 31593712,
+          "name": "Chicken Wings",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093492,
+      "name": "JULIAN DAVIS",
+      "subtotal": 6525,
+      "tax": 450,
+      "autogratuity": 979,
+      "tip": 457,
+      "total": 7954,
+      "timestamp": "2021-10-12T23:28:15.673Z",
+      "items": [
+        {
+          "id": 31593629,
+          "name": "Kid's Burger",
+          "price": 1000,
+          "quantity": 1
+        },
+        {
+          "id": 31593634,
+          "name": "Kid's Mac & Cheese",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31593836,
+          "name": "Taphouse Burger",
+          "price": 1800,
+          "quantity": 1
+        },
+        {
+          "id": 31594068,
+          "name": "Latte",
+          "price": 575,
+          "quantity": 1
+        },
+        {
+          "id": 31594115,
+          "name": "Taphouse Burger",
+          "price": 1600,
+          "quantity": 1
+        },
+        {
+          "id": 31594175,
+          "name": "Maine Root Mexicane Cola (16oz)",
+          "price": 300,
+          "quantity": 2
+        },
+        {
+          "id": 31594182,
+          "name": "Hot Chocolate",
+          "price": 350,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093478,
+      "name": "MAVERICK SPENCER",
+      "subtotal": 1100,
+      "tax": 76,
+      "autogratuity": 165,
+      "tip": 77,
+      "total": 1341,
+      "timestamp": "2021-10-12T23:27:32.897Z",
+      "items": [
+        {
+          "id": 31593665,
+          "name": "Build Your Own Flight",
+          "price": 1100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093440,
+      "name": "JOSIAH FREEMAN",
+      "subtotal": 1400,
+      "tax": 97,
+      "autogratuity": 210,
+      "tip": 98,
+      "total": 1707,
+      "timestamp": "2021-10-12T23:25:29.605Z",
+      "items": [
+        {
+          "id": 31593748,
+          "name": "Italian Cream Soda (16oz)",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 31593903,
+          "name": "Fried Pickle Chips",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31594217,
+          "name": "Green Dragon",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093400,
+      "name": "JACOB HAMILTON",
+      "subtotal": 1700,
+      "tax": 117,
+      "autogratuity": 255,
+      "tip": 119,
+      "total": 2072,
+      "timestamp": "2021-10-12T23:23:38.137Z",
+      "items": [
+        {
+          "id": 31595137,
+          "name": "Commons Nachos",
+          "price": 1700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093394,
+      "name": "DAVID MORALES",
+      "subtotal": 1600,
+      "tax": 110,
+      "autogratuity": 240,
+      "tip": 160,
+      "total": 1950,
+      "timestamp": "2021-10-12T23:23:23.024Z",
+      "items": [
+        {
+          "id": 31593423,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31593468,
+          "name": "Sol Sangria",
+          "price": 1100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093300,
+      "name": "JAYDEN BANKS",
+      "subtotal": 2200,
+      "tax": 152,
+      "autogratuity": 330,
+      "tip": 154,
+      "total": 2682,
+      "timestamp": "2021-10-12T23:17:47.835Z",
+      "items": [
+        {
+          "id": 31593652,
+          "name": "Blueberry-Thyme Vodka Spritz",
+          "price": 1100,
+          "quantity": 1
+        },
+        {
+          "id": 31593674,
+          "name": "Sol Sangria",
+          "price": 1100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093271,
+      "name": "EVERLY NGUYEN",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 84,
+      "total": 1463,
+      "timestamp": "2021-10-12T23:16:22.975Z",
+      "items": [
+        {
+          "id": 31593181,
+          "name": "Cabernet Sauvignon, Tribute",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093257,
+      "name": "ANTHONY PORTER",
+      "subtotal": 1300,
+      "tax": 90,
+      "autogratuity": 195,
+      "tip": 91,
+      "total": 1585,
+      "timestamp": "2021-10-12T23:15:38.496Z",
+      "items": [
+        {
+          "id": 31593237,
+          "name": "Build Your Own Flight",
+          "price": 1300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093223,
+      "name": "JAYDEN FLEMING",
+      "subtotal": 500,
+      "tax": 35,
+      "autogratuity": 75,
+      "tip": 35,
+      "total": 610,
+      "timestamp": "2021-10-12T23:13:05.970Z",
+      "items": [
+        {
+          "id": 31593051,
+          "name": "Fried Pickle Chips",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093182,
+      "name": "ELI HYDE",
+      "subtotal": 1250,
+      "tax": 86,
+      "autogratuity": 188,
+      "tip": 88,
+      "total": 1524,
+      "timestamp": "2021-10-12T23:10:21.937Z",
+      "items": [
+        {
+          "id": 31592969,
+          "name": "Commons Nachos",
+          "price": 1250,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093175,
+      "name": "LUNA FERGUSON",
+      "subtotal": 2400,
+      "tax": 166,
+      "autogratuity": 360,
+      "tip": 240,
+      "total": 2926,
+      "timestamp": "2021-10-12T23:10:07.298Z",
+      "items": [
+        {
+          "id": 31592913,
+          "name": "Sparkling Prosecco Rose, Ruffino",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "id": 31592974,
+          "name": "Commons Nachos",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9093154,
+      "name": "PAISLEY ANDERSON",
+      "subtotal": 1100,
+      "tax": 76,
+      "autogratuity": 165,
+      "tip": 77,
+      "total": 1341,
+      "timestamp": "2021-10-12T23:08:59.132Z",
+      "items": [
+        {
+          "id": 31592993,
+          "name": "Build Your Own Flight",
+          "price": 1100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092977,
+      "name": "GRACE BOYD",
+      "subtotal": 1100,
+      "tax": 76,
+      "autogratuity": 165,
+      "tip": 0,
+      "total": 1341,
+      "timestamp": "2021-10-12T22:59:12.769Z",
+      "items": [
+        {
+          "id": 31592542,
+          "name": "Blueberry-Thyme Vodka Spritz",
+          "price": 1100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092939,
+      "name": "LUCA MILES",
+      "subtotal": 15500,
+      "tax": 1070,
+      "autogratuity": 2325,
+      "tip": 1860,
+      "total": 18895,
+      "timestamp": "2021-10-12T22:56:11.657Z",
+      "items": [
+        {
+          "id": 31592473,
+          "name": "Chicken Wings",
+          "price": 1200,
+          "quantity": 3
+        },
+        {
+          "id": 31592484,
+          "name": "Chicken Wings",
+          "price": 1200,
+          "quantity": 4
+        },
+        {
+          "id": 31592490,
+          "name": "Chicken Wings",
+          "price": 1200,
+          "quantity": 3
+        },
+        {
+          "id": 31592497,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 7
+        }
+      ]
+    },
+    {
+      "id": 9092902,
+      "name": "SAMUEL STEVENS",
+      "subtotal": 1450,
+      "tax": 100,
+      "autogratuity": 218,
+      "tip": 102,
+      "total": 1768,
+      "timestamp": "2021-10-12T22:54:23.979Z",
+      "items": [
+        {
+          "id": 31592464,
+          "name": "Grilled Cheese",
+          "price": 1450,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092878,
+      "name": "WYATT POWELL",
+      "subtotal": 1100,
+      "tax": 76,
+      "autogratuity": 165,
+      "tip": 77,
+      "total": 1341,
+      "timestamp": "2021-10-12T22:52:54.119Z",
+      "items": [
+        {
+          "id": 31592425,
+          "name": "Blueberry-Thyme Vodka Spritz",
+          "price": 1100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092829,
+      "name": "DAVID CARTER",
+      "subtotal": 400,
+      "tax": 28,
+      "autogratuity": 60,
+      "tip": 0,
+      "total": 488,
+      "timestamp": "2021-10-12T22:50:30.001Z",
+      "items": [
+        {
+          "id": 31592244,
+          "name": "Open Food",
+          "price": 400,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092770,
+      "name": "SOFIA CARPENTER",
+      "subtotal": 4800,
+      "tax": 331,
+      "autogratuity": 720,
+      "tip": 0,
+      "total": 5851,
+      "timestamp": "2021-10-12T22:46:33.309Z",
+      "items": [
+        {
+          "id": 31592102,
+          "name": "Stickers & Magnets",
+          "price": 300,
+          "quantity": 2
+        },
+        {
+          "id": 31592111,
+          "name": "Juicy McJuiceface CANdle",
+          "price": 0,
+          "quantity": 1
+        },
+        {
+          "id": 31592122,
+          "name": "Vintage T-Shirt",
+          "price": 2000,
+          "quantity": 1
+        },
+        {
+          "id": 31592131,
+          "name": "Vintage T-Shirt",
+          "price": 2200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092734,
+      "name": "EVELYN HILL",
+      "subtotal": 1500,
+      "tax": 104,
+      "autogratuity": 225,
+      "tip": 150,
+      "total": 1829,
+      "timestamp": "2021-10-12T22:43:58.357Z",
+      "items": [
+        {
+          "id": 31592001,
+          "name": "Blue Bee 2018 Aragon 1904 Cider",
+          "price": 1000,
+          "quantity": 1
+        },
+        {
+          "id": 31592017,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092713,
+      "name": "JACKSON JENNINGS",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 84,
+      "total": 1463,
+      "timestamp": "2021-10-12T22:42:19.353Z",
+      "items": [
+        {
+          "id": 31592092,
+          "name": "Maine Root Root Beer (16oz)",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 31592120,
+          "name": "Grilled Cheese",
+          "price": 900,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092693,
+      "name": "JOHN PETERS",
+      "subtotal": 2400,
+      "tax": 166,
+      "autogratuity": 360,
+      "tip": 168,
+      "total": 2926,
+      "timestamp": "2021-10-12T22:41:36.698Z",
+      "items": [
+        {
+          "id": 31592124,
+          "name": "Taco Tuesday!",
+          "price": 800,
+          "quantity": 1
+        },
+        {
+          "id": 31592134,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31592226,
+          "name": "Build Your Own Flight",
+          "price": 1100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092681,
+      "name": "MATEO ROBERTS",
+      "subtotal": 1500,
+      "tax": 104,
+      "autogratuity": 225,
+      "tip": 105,
+      "total": 1829,
+      "timestamp": "2021-10-12T22:40:36.163Z",
+      "items": [
+        {
+          "id": 31591916,
+          "name": "Blue Bee 2018 Aragon 1904 Cider",
+          "price": 1000,
+          "quantity": 1
+        },
+        {
+          "id": 31591961,
+          "name": "Fried Pickle Chips",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092664,
+      "name": "HANNAH FLEMING",
+      "subtotal": 1500,
+      "tax": 104,
+      "autogratuity": 225,
+      "tip": 200,
+      "total": 1829,
+      "timestamp": "2021-10-12T22:39:05.183Z",
+      "items": [
+        {
+          "id": 31591967,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31591900,
+          "name": "Blue Bee Mill Race Bramble Cider",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092658,
+      "name": "RILEY FORBES",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 84,
+      "total": 1463,
+      "timestamp": "2021-10-12T22:38:14.978Z",
+      "items": [
+        {
+          "id": 31591860,
+          "name": "Ruby Dragon",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31591881,
+          "name": "Hot Chocolate",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 31591890,
+          "name": "Italian Cream Soda (16oz)",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092640,
+      "name": "ISABELLA OLSON",
+      "subtotal": 1100,
+      "tax": 76,
+      "autogratuity": 165,
+      "tip": 110,
+      "total": 1341,
+      "timestamp": "2021-10-12T22:37:09.925Z",
+      "items": [
+        {
+          "id": 31591811,
+          "name": "Pinot Noir, J Lohr Falcon's Perch",
+          "price": 1100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092625,
+      "name": "SCARLETT FULLER",
+      "subtotal": 1825,
+      "tax": 126,
+      "autogratuity": 274,
+      "tip": 219,
+      "total": 2225,
+      "timestamp": "2021-10-12T22:36:18.131Z",
+      "items": [
+        {
+          "id": 31591902,
+          "name": "Chai Tea Latte",
+          "price": 425,
+          "quantity": 1
+        },
+        {
+          "id": 31591996,
+          "name": "Ahi Tuna Poke",
+          "price": 1400,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092535,
+      "name": "JACKSON HENRY",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 120,
+      "total": 1463,
+      "timestamp": "2021-10-12T22:30:29.660Z",
+      "items": [
+        {
+          "id": 31591724,
+          "name": "Sparkling Prosecco Rose, Ruffino",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092517,
+      "name": "ANTHONY ONEIL",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 21,
+      "total": 366,
+      "timestamp": "2021-10-12T22:29:08.231Z",
+      "items": [
+        {
+          "id": 31591540,
+          "name": "Hot Chocolate",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092401,
+      "name": "LILY WOOTEN",
+      "subtotal": 1500,
+      "tax": 104,
+      "autogratuity": 225,
+      "tip": 105,
+      "total": 1829,
+      "timestamp": "2021-10-12T22:21:55.745Z",
+      "items": [
+        {
+          "id": 31591246,
+          "name": "Wine Flight",
+          "price": 1500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092400,
+      "name": "ISABELLA GONZALEZ",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 84,
+      "total": 1463,
+      "timestamp": "2021-10-12T22:21:53.778Z",
+      "items": [
+        {
+          "id": 31592472,
+          "name": "Commons Nachos",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092394,
+      "name": "ELIJAH HUDSON",
+      "subtotal": 2000,
+      "tax": 138,
+      "autogratuity": 300,
+      "tip": 140,
+      "total": 2438,
+      "timestamp": "2021-10-12T22:21:29.273Z",
+      "items": [
+        {
+          "id": 31591590,
+          "name": "Taco Tuesday!",
+          "price": 800,
+          "quantity": 1
+        },
+        {
+          "id": 31591600,
+          "name": "Spicy Pepper Ham Sandwich",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092335,
+      "name": "ELENA RYAN",
+      "subtotal": 4050,
+      "tax": 279,
+      "autogratuity": 608,
+      "tip": 405,
+      "total": 4937,
+      "timestamp": "2021-10-12T22:17:14.650Z",
+      "items": [
+        {
+          "id": 31591134,
+          "name": "Mexican Mocha",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31591149,
+          "name": "Mexican Mocha",
+          "price": 750,
+          "quantity": 1
+        },
+        {
+          "id": 31591220,
+          "name": "Shenandoah Smoked Chicken Toast",
+          "price": 1300,
+          "quantity": 1
+        },
+        {
+          "id": 31591239,
+          "name": "Ahi Tuna Poke",
+          "price": 1400,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092305,
+      "name": "ISABELLA ROBINSON",
+      "subtotal": 2100,
+      "tax": 145,
+      "autogratuity": 315,
+      "tip": 147,
+      "total": 2560,
+      "timestamp": "2021-10-12T22:14:17.597Z",
+      "items": [
+        {
+          "id": 31590991,
+          "name": "Grilled Cheese",
+          "price": 900,
+          "quantity": 1
+        },
+        {
+          "id": 31590994,
+          "name": "Fried Pickle Chips",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31591007,
+          "name": "Fog IPA",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092285,
+      "name": "LUCA SHAW",
+      "subtotal": 1600,
+      "tax": 110,
+      "autogratuity": 240,
+      "tip": 112,
+      "total": 1950,
+      "timestamp": "2021-10-12T22:12:45.906Z",
+      "items": [
+        {
+          "id": 31590997,
+          "name": "TBLT",
+          "price": 1300,
+          "quantity": 1
+        },
+        {
+          "id": 31591012,
+          "name": "Hot Chocolate",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092262,
+      "name": "CARTER ANDERSON",
+      "subtotal": 1100,
+      "tax": 76,
+      "autogratuity": 165,
+      "tip": 77,
+      "total": 1341,
+      "timestamp": "2021-10-12T22:11:02.804Z",
+      "items": [
+        {
+          "id": 31591133,
+          "name": "Build Your Own Flight",
+          "price": 1100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092215,
+      "name": "JOSIAH LUCAS",
+      "subtotal": 2700,
+      "tax": 186,
+      "autogratuity": 405,
+      "tip": 324,
+      "total": 3291,
+      "timestamp": "2021-10-12T22:07:18.004Z",
+      "items": [
+        {
+          "id": 31590915,
+          "name": "Build Your Own Flight",
+          "price": 1100,
+          "quantity": 1
+        },
+        {
+          "id": 31592687,
+          "name": "Taphouse Burger",
+          "price": 1600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092211,
+      "name": "ASHER SHAW",
+      "subtotal": 400,
+      "tax": 28,
+      "autogratuity": 60,
+      "tip": 28,
+      "total": 488,
+      "timestamp": "2021-10-12T22:06:26.222Z",
+      "items": [
+        {
+          "id": 31590879,
+          "name": "Gelato",
+          "price": 400,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092193,
+      "name": "ELEANOR PORTER",
+      "subtotal": 375,
+      "tax": 26,
+      "autogratuity": 56,
+      "tip": 38,
+      "total": 457,
+      "timestamp": "2021-10-12T22:05:29.177Z",
+      "items": [
+        {
+          "id": 31590746,
+          "name": "Americano",
+          "price": 375,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092154,
+      "name": "PAISLEY FERNANDEZ",
+      "subtotal": 2700,
+      "tax": 186,
+      "autogratuity": 405,
+      "tip": 189,
+      "total": 3291,
+      "timestamp": "2021-10-12T22:02:00.290Z",
+      "items": [
+        {
+          "id": 31590654,
+          "name": "Commons Nachos",
+          "price": 1700,
+          "quantity": 1
+        },
+        {
+          "id": 31590678,
+          "name": "Blue Bee Mill Race Bramble Cider",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092107,
+      "name": "ARIA MARTIN",
+      "subtotal": 2000,
+      "tax": 138,
+      "autogratuity": 300,
+      "tip": 140,
+      "total": 2438,
+      "timestamp": "2021-10-12T21:58:09.937Z",
+      "items": [
+        {
+          "id": 31590553,
+          "name": "Taphouse Burger",
+          "price": 2000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092070,
+      "name": "VIOLET FISHER",
+      "subtotal": 2100,
+      "tax": 145,
+      "autogratuity": 315,
+      "tip": 0,
+      "total": 2560,
+      "timestamp": "2021-10-12T21:55:41.184Z",
+      "items": [
+        {
+          "id": 31590397,
+          "name": "Buddha Bowl",
+          "price": 1300,
+          "quantity": 1
+        },
+        {
+          "id": 31590420,
+          "name": "IN OUR DNA Pretzel Kvass (Alewerks Collab)",
+          "price": 800,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092041,
+      "name": "GRAYSON HORTON",
+      "subtotal": 2000,
+      "tax": 138,
+      "autogratuity": 300,
+      "tip": 200,
+      "total": 2438,
+      "timestamp": "2021-10-12T21:52:59.792Z",
+      "items": [
+        {
+          "id": 31590531,
+          "name": "Blue Bee 2018 Aragon 1904 Cider",
+          "price": 1000,
+          "quantity": 1
+        },
+        {
+          "id": 31590402,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31590410,
+          "name": "Fried Pickle Chips",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9092039,
+      "name": "EMILY ARMSTRONG",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 144,
+      "total": 1463,
+      "timestamp": "2021-10-12T21:52:45.031Z",
+      "items": [
+        {
+          "id": 31590341,
+          "name": "Build Your Own Flight",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9091984,
+      "name": "MICHAEL GOMEZ",
+      "subtotal": 1000,
+      "tax": 69,
+      "autogratuity": 150,
+      "tip": 100,
+      "total": 1219,
+      "timestamp": "2021-10-12T21:47:37.601Z",
+      "items": [
+        {
+          "id": 31590113,
+          "name": "Blue Bee 2018 Aragon 1904 Cider",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9091972,
+      "name": "ISABELLA CHAPMAN",
+      "subtotal": 1000,
+      "tax": 69,
+      "autogratuity": 150,
+      "tip": 70,
+      "total": 1219,
+      "timestamp": "2021-10-12T21:46:29.929Z",
+      "items": [
+        {
+          "id": 31590119,
+          "name": "Blue Bee 2018 Aragon 1904 Cider",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9091958,
+      "name": "ALEXANDER MCCOY",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 84,
+      "total": 1463,
+      "timestamp": "2021-10-12T21:45:28.832Z",
+      "items": [
+        {
+          "id": 31590395,
+          "name": "Guavarita",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9091909,
+      "name": "ELENA LINDSAY",
+      "subtotal": 400,
+      "tax": 28,
+      "autogratuity": 60,
+      "tip": 40,
+      "total": 488,
+      "timestamp": "2021-10-12T21:42:46.163Z",
+      "items": [
+        {
+          "id": 31589941,
+          "name": "Blue Bee 2018 Aragon 1904 Cider",
+          "price": 400,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9091876,
+      "name": "ISABELLA CHAPMAN",
+      "subtotal": 2500,
+      "tax": 173,
+      "autogratuity": 375,
+      "tip": 175,
+      "total": 3048,
+      "timestamp": "2021-10-12T21:40:30.163Z",
+      "items": [
+        {
+          "id": 31590070,
+          "name": "Cabernet Sauvignon, Tribute",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "id": 31590088,
+          "name": "Market Salad",
+          "price": 1300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9091875,
+      "name": "NOAH HUBER",
+      "subtotal": 900,
+      "tax": 62,
+      "autogratuity": 135,
+      "tip": 63,
+      "total": 1097,
+      "timestamp": "2021-10-12T21:40:29.198Z",
+      "items": [
+        {
+          "id": 31589849,
+          "name": "Grilled Cheese",
+          "price": 900,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9091870,
+      "name": "JULIAN GRAY",
+      "subtotal": 475,
+      "tax": 33,
+      "autogratuity": 71,
+      "tip": 33,
+      "total": 579,
+      "timestamp": "2021-10-12T21:40:15.623Z",
+      "items": [
+        {
+          "id": 31590852,
+          "name": "Steamer",
+          "price": 475,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9091758,
+      "name": "ANTHONY ARMSTRONG",
+      "subtotal": 400,
+      "tax": 28,
+      "autogratuity": 60,
+      "tip": 28,
+      "total": 488,
+      "timestamp": "2021-10-12T21:31:11.376Z",
+      "items": [
+        {
+          "id": 31589756,
+          "name": "Steamer",
+          "price": 400,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9091647,
+      "name": "DANIEL DIXON",
+      "subtotal": 1450,
+      "tax": 100,
+      "autogratuity": 218,
+      "tip": 102,
+      "total": 1768,
+      "timestamp": "2021-10-12T21:22:25.207Z",
+      "items": [
+        {
+          "id": 31589326,
+          "name": "Commons Nachos",
+          "price": 1450,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9091575,
+      "name": "HAZEL CASTRO",
+      "subtotal": 925,
+      "tax": 64,
+      "autogratuity": 139,
+      "tip": 0,
+      "total": 1128,
+      "timestamp": "2021-10-12T21:17:12.991Z",
+      "items": [
+        {
+          "id": 31589087,
+          "name": "Latte",
+          "price": 425,
+          "quantity": 1
+        },
+        {
+          "id": 31589089,
+          "name": "Latte",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9091429,
+      "name": " JAMES",
+      "subtotal": 1500,
+      "tax": 104,
+      "autogratuity": 225,
+      "tip": 0,
+      "total": 1829,
+      "timestamp": "2021-10-12T21:04:29.210Z",
+      "items": [
+        {
+          "id": 31588933,
+          "name": "Fried Chicken Sandwich",
+          "price": 1500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9091213,
+      "name": "SCARLETT OLIVER",
+      "subtotal": 1025,
+      "tax": 71,
+      "autogratuity": 154,
+      "tip": 72,
+      "total": 1250,
+      "timestamp": "2021-10-12T20:46:13.362Z",
+      "items": [
+        {
+          "id": 31588368,
+          "name": "Kid's Chicken Tenders",
+          "price": 1000,
+          "quantity": 1
+        },
+        {
+          "id": 31588384,
+          "name": "Sauces & Condiments",
+          "price": 25,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9091107,
+      "name": "LUCAS FIELDS",
+      "subtotal": 350,
+      "tax": 24,
+      "autogratuity": 53,
+      "tip": 25,
+      "total": 427,
+      "timestamp": "2021-10-12T20:36:51.093Z",
+      "items": [
+        {
+          "id": 31588161,
+          "name": "Hot Chocolate",
+          "price": 350,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9091065,
+      "name": "ELEANOR GARZA",
+      "subtotal": 3600,
+      "tax": 248,
+      "autogratuity": 540,
+      "tip": 252,
+      "total": 4388,
+      "timestamp": "2021-10-12T20:33:45.532Z",
+      "items": [
+        {
+          "id": 31588083,
+          "name": "Build Your Own Flight",
+          "price": 1200,
+          "quantity": 2
+        },
+        {
+          "id": 31588089,
+          "name": "Commons Nachos",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090958,
+      "name": "EMMA HUGHES",
+      "subtotal": 425,
+      "tax": 29,
+      "autogratuity": 64,
+      "tip": 30,
+      "total": 518,
+      "timestamp": "2021-10-12T20:21:47.617Z",
+      "items": [
+        {
+          "id": 31587859,
+          "name": "Matcha Latte",
+          "price": 425,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090900,
+      "name": "GABRIEL HOPKINS",
+      "subtotal": 1100,
+      "tax": 76,
+      "autogratuity": 165,
+      "tip": 132,
+      "total": 1341,
+      "timestamp": "2021-10-12T20:16:36.254Z",
+      "items": [
+        {
+          "id": 31587716,
+          "name": "Sol Sangria",
+          "price": 1100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090794,
+      "name": "JAXON SANCHEZ",
+      "subtotal": 1325,
+      "tax": 91,
+      "autogratuity": 199,
+      "tip": 93,
+      "total": 1615,
+      "timestamp": "2021-10-12T20:05:37.734Z",
+      "items": [
+        {
+          "id": 31587504,
+          "name": "Pumpkin Pie Latte",
+          "price": 825,
+          "quantity": 1
+        },
+        {
+          "id": 31587512,
+          "name": "Fried Pickle Chips",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090780,
+      "name": "JACK HUDSON",
+      "subtotal": 800,
+      "tax": 55,
+      "autogratuity": 120,
+      "tip": 56,
+      "total": 975,
+      "timestamp": "2021-10-12T20:04:09.160Z",
+      "items": [
+        {
+          "id": 31587468,
+          "name": "Fried Pickle Chips",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31587477,
+          "name": "Maine Root Mexicane Cola (16oz)",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090765,
+      "name": "ANTHONY RUSSELL",
+      "subtotal": 3050,
+      "tax": 210,
+      "autogratuity": 458,
+      "tip": 214,
+      "total": 3718,
+      "timestamp": "2021-10-12T20:02:20.500Z",
+      "items": [
+        {
+          "id": 31587443,
+          "name": "Build Your Own Flight",
+          "price": 1300,
+          "quantity": 1
+        },
+        {
+          "id": 31587469,
+          "name": "Commons Nachos",
+          "price": 1750,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090727,
+      "name": "EMILY JOHNSON",
+      "subtotal": 575,
+      "tax": 40,
+      "autogratuity": 86,
+      "tip": 40,
+      "total": 701,
+      "timestamp": "2021-10-12T19:57:19.965Z",
+      "items": [
+        {
+          "id": 31587392,
+          "name": "Matcha Latte",
+          "price": 575,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090709,
+      "name": "AURORA FOREMAN",
+      "subtotal": 825,
+      "tax": 57,
+      "autogratuity": 124,
+      "tip": 58,
+      "total": 1006,
+      "timestamp": "2021-10-12T19:55:41.420Z",
+      "items": [
+        {
+          "id": 31587345,
+          "name": "Pumpkin Pie Chai",
+          "price": 825,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090699,
+      "name": "EVERLY MURPHY",
+      "subtotal": 2000,
+      "tax": 138,
+      "autogratuity": 300,
+      "tip": 100,
+      "total": 2438,
+      "timestamp": "2021-10-12T19:54:44.226Z",
+      "items": [
+        {
+          "id": 31587529,
+          "name": "TBLT",
+          "price": 1300,
+          "quantity": 1
+        },
+        {
+          "id": 31587365,
+          "name": "Stop, Drop, and Doppelbock",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090636,
+      "name": "KAI REID",
+      "subtotal": 1100,
+      "tax": 76,
+      "autogratuity": 165,
+      "tip": 132,
+      "total": 1341,
+      "timestamp": "2021-10-12T19:46:46.275Z",
+      "items": [
+        {
+          "id": 31587206,
+          "name": "Pinot Noir, J Lohr Falcon's Perch",
+          "price": 1100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090619,
+      "name": "RILEY MILLER",
+      "subtotal": 600,
+      "tax": 41,
+      "autogratuity": 90,
+      "tip": 42,
+      "total": 731,
+      "timestamp": "2021-10-12T19:45:27.733Z",
+      "items": [
+        {
+          "id": 31587179,
+          "name": "Oatmeal Latte",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090606,
+      "name": "EZRA WASHINGTON",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 84,
+      "total": 1463,
+      "timestamp": "2021-10-12T19:43:58.806Z",
+      "items": [
+        {
+          "id": 31587152,
+          "name": "Guavarita",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090584,
+      "name": "WILLIAM SCOTT",
+      "subtotal": 425,
+      "tax": 29,
+      "autogratuity": 64,
+      "tip": 0,
+      "total": 518,
+      "timestamp": "2021-10-12T19:41:25.839Z",
+      "items": [
+        {
+          "id": 31587123,
+          "name": "Chai Tea Latte",
+          "price": 425,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090583,
+      "name": "AURORA ROCHA",
+      "subtotal": 3600,
+      "tax": 248,
+      "autogratuity": 540,
+      "tip": 200,
+      "total": 4388,
+      "timestamp": "2021-10-12T19:40:45.319Z",
+      "items": [
+        {
+          "id": 31587138,
+          "name": "Citra Session IPA",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31587139,
+          "name": "Fog IPA",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31587141,
+          "name": "Blueberry-Thyme Vodka Spritz",
+          "price": 1100,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 9090552,
+      "name": "SOPHIA HARRISON",
+      "subtotal": 470,
+      "tax": 32,
+      "autogratuity": 71,
+      "tip": 57,
+      "total": 573,
+      "timestamp": "2021-10-12T19:37:45.060Z",
+      "items": [
+        {
+          "id": 31587056,
+          "name": "Cold Brew",
+          "price": 470,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090468,
+      "name": "RILEY WOODS",
+      "subtotal": 1800,
+      "tax": 124,
+      "autogratuity": 270,
+      "tip": 400,
+      "total": 2194,
+      "timestamp": "2021-10-12T19:27:57.842Z",
+      "items": [
+        {
+          "id": 31587137,
+          "name": "Sol Sangria",
+          "price": 1100,
+          "quantity": 1
+        },
+        {
+          "id": 31587227,
+          "name": "Affogato",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090466,
+      "name": "MIA PUCKETT",
+      "subtotal": 1700,
+      "tax": 117,
+      "autogratuity": 255,
+      "tip": 119,
+      "total": 2072,
+      "timestamp": "2021-10-12T19:27:53.673Z",
+      "items": [
+        {
+          "id": 31586896,
+          "name": "Fried Pickle Chips",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31587173,
+          "name": "Guavarita",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090448,
+      "name": "EVERLY CARTER",
+      "subtotal": 325,
+      "tax": 22,
+      "autogratuity": 49,
+      "tip": 23,
+      "total": 396,
+      "timestamp": "2021-10-12T19:26:10.978Z",
+      "items": [
+        {
+          "id": 31586892,
+          "name": "Hot Tea",
+          "price": 325,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090446,
+      "name": "ABIGAIL HOLMES",
+      "subtotal": 975,
+      "tax": 67,
+      "autogratuity": 146,
+      "tip": 68,
+      "total": 1188,
+      "timestamp": "2021-10-12T19:26:08.195Z",
+      "items": [
+        {
+          "id": 31586885,
+          "name": "Blue Matcha Latte",
+          "price": 825,
+          "quantity": 1
+        },
+        {
+          "id": 31586894,
+          "name": "Day Old Pastry",
+          "price": 150,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090375,
+      "name": "ETHAN CRUZ",
+      "subtotal": 375,
+      "tax": 26,
+      "autogratuity": 56,
+      "tip": 26,
+      "total": 457,
+      "timestamp": "2021-10-12T19:18:00.278Z",
+      "items": [
+        {
+          "id": 31586703,
+          "name": "Cortado",
+          "price": 375,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090347,
+      "name": "ETHAN FORD",
+      "subtotal": 1400,
+      "tax": 97,
+      "autogratuity": 210,
+      "tip": 140,
+      "total": 1707,
+      "timestamp": "2021-10-12T19:14:56.899Z",
+      "items": [
+        {
+          "id": 31586657,
+          "name": "Ahi Tuna Poke",
+          "price": 1400,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090332,
+      "name": "ISABELLA PETERS",
+      "subtotal": 475,
+      "tax": 33,
+      "autogratuity": 71,
+      "tip": 57,
+      "total": 579,
+      "timestamp": "2021-10-12T19:13:52.251Z",
+      "items": [
+        {
+          "id": 31586725,
+          "name": "Matcha Latte",
+          "price": 475,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090310,
+      "name": "GRACE STEWART",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 21,
+      "total": 366,
+      "timestamp": "2021-10-12T19:11:15.934Z",
+      "items": [
+        {
+          "id": 31586575,
+          "name": "Espresso",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090299,
+      "name": "MILA FLORES",
+      "subtotal": 1375,
+      "tax": 95,
+      "autogratuity": 206,
+      "tip": 138,
+      "total": 1676,
+      "timestamp": "2021-10-12T19:10:41.065Z",
+      "items": [
+        {
+          "id": 31586585,
+          "name": "Americano",
+          "price": 375,
+          "quantity": 1
+        },
+        {
+          "id": 31586603,
+          "name": "Blue Bee Mill Race Bramble Cider",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090255,
+      "name": "ISABELLA GRIFFIN",
+      "subtotal": 2175,
+      "tax": 150,
+      "autogratuity": 326,
+      "tip": 218,
+      "total": 2651,
+      "timestamp": "2021-10-12T19:05:58.709Z",
+      "items": [
+        {
+          "id": 31586499,
+          "name": "Blackberry Gose",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31586514,
+          "name": "Citra Session IPA",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31586519,
+          "name": "Drip Coffee",
+          "price": 275,
+          "quantity": 1
+        },
+        {
+          "id": 31586535,
+          "name": "Mocha",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090205,
+      "name": "AVERY JONES",
+      "subtotal": 2395,
+      "tax": 165,
+      "autogratuity": 359,
+      "tip": 168,
+      "total": 2919,
+      "timestamp": "2021-10-12T18:59:54.761Z",
+      "items": [
+        {
+          "id": 31586442,
+          "name": "Lone Oak Caboose Blend",
+          "price": 1595,
+          "quantity": 1
+        },
+        {
+          "id": 31586451,
+          "name": "Taco Tuesday!",
+          "price": 800,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090181,
+      "name": "EMMA BRADLEY",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 144,
+      "total": 1463,
+      "timestamp": "2021-10-12T18:56:13.575Z",
+      "items": [
+        {
+          "id": 31586422,
+          "name": "Cabernet Sauvignon, Tribute",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090149,
+      "name": "ABIGAIL ALEXANDER",
+      "subtotal": 350,
+      "tax": 24,
+      "autogratuity": 53,
+      "tip": 25,
+      "total": 427,
+      "timestamp": "2021-10-12T18:52:02.142Z",
+      "items": [
+        {
+          "id": 31586409,
+          "name": "Chai Tea Latte",
+          "price": 350,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090143,
+      "name": "DAVID ELLIOTT",
+      "subtotal": 500,
+      "tax": 35,
+      "autogratuity": 75,
+      "tip": 35,
+      "total": 610,
+      "timestamp": "2021-10-12T18:51:04.085Z",
+      "items": [
+        {
+          "id": 31586318,
+          "name": "Guest Draft: Lost Boy CIder Comeback Kid",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090139,
+      "name": "LILY FISHER",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 21,
+      "total": 366,
+      "timestamp": "2021-10-12T18:50:40.401Z",
+      "items": [
+        {
+          "id": 31586416,
+          "name": "Blackberry Gose",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090085,
+      "name": "WYATT COOKE",
+      "subtotal": 1950,
+      "tax": 135,
+      "autogratuity": 293,
+      "tip": 137,
+      "total": 2378,
+      "timestamp": "2021-10-12T18:43:38.654Z",
+      "items": [
+        {
+          "id": 31586212,
+          "name": "Matcha Latte",
+          "price": 650,
+          "quantity": 1
+        },
+        {
+          "id": 31586231,
+          "name": "Buddha Bowl",
+          "price": 1300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9090039,
+      "name": "ELLA COLEMAN",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 21,
+      "total": 366,
+      "timestamp": "2021-10-12T18:37:38.698Z",
+      "items": [
+        {
+          "id": 31586143,
+          "name": "Chamomile Rye Table Beer - $3 Pints Until It's Gone!",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089960,
+      "name": "MIA LOPEZ",
+      "subtotal": 275,
+      "tax": 19,
+      "autogratuity": 41,
+      "tip": 50,
+      "total": 335,
+      "timestamp": "2021-10-12T18:24:02.886Z",
+      "items": [
+        {
+          "id": 31586026,
+          "name": "Drip Coffee",
+          "price": 275,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089949,
+      "name": "MAVERICK LEE",
+      "subtotal": 1795,
+      "tax": 124,
+      "autogratuity": 269,
+      "tip": 100,
+      "total": 2188,
+      "timestamp": "2021-10-12T18:21:10.166Z",
+      "items": [
+        {
+          "id": 31586002,
+          "name": "Ahi Tuna Poke",
+          "price": 1400,
+          "quantity": 1
+        },
+        {
+          "id": 31586008,
+          "name": "Cold Brew",
+          "price": 395,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089913,
+      "name": "ABIGAIL MEYER",
+      "subtotal": 425,
+      "tax": 29,
+      "autogratuity": 64,
+      "tip": 30,
+      "total": 518,
+      "timestamp": "2021-10-12T18:12:32.661Z",
+      "items": [
+        {
+          "id": 31585914,
+          "name": "Chai Tea Latte",
+          "price": 425,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089902,
+      "name": "MILA JAMES",
+      "subtotal": 545,
+      "tax": 38,
+      "autogratuity": 82,
+      "tip": 38,
+      "total": 665,
+      "timestamp": "2021-10-12T18:11:07.836Z",
+      "items": [
+        {
+          "id": 31585887,
+          "name": "Cold Brew",
+          "price": 545,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089844,
+      "name": "DAVID HAYES",
+      "subtotal": 425,
+      "tax": 29,
+      "autogratuity": 64,
+      "tip": 30,
+      "total": 518,
+      "timestamp": "2021-10-12T18:01:39.863Z",
+      "items": [
+        {
+          "id": 31585850,
+          "name": "Matcha Latte",
+          "price": 425,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089799,
+      "name": "LINCOLN MATTHEWS",
+      "subtotal": 3500,
+      "tax": 241,
+      "autogratuity": 525,
+      "tip": 245,
+      "total": 4266,
+      "timestamp": "2021-10-12T17:53:44.389Z",
+      "items": [
+        {
+          "id": 31586127,
+          "name": "Vienna, VA Lager",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31585770,
+          "name": "Pimento Burger",
+          "price": 1600,
+          "quantity": 1
+        },
+        {
+          "id": 31585774,
+          "name": "Chamomile Rye Table Beer - $3 Pints Until It's Gone!",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 31586240,
+          "name": "Chamomile Rye Table Beer - $3 Pints Until It's Gone!",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 31586242,
+          "name": "Fog IPA",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089789,
+      "name": "CHLOE BURKE",
+      "subtotal": 600,
+      "tax": 41,
+      "autogratuity": 90,
+      "tip": 60,
+      "total": 731,
+      "timestamp": "2021-10-12T17:52:02.643Z",
+      "items": [
+        {
+          "id": 31587097,
+          "name": "Pumpkin Pie Chai",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089740,
+      "name": "SEBASTIAN THOMPSON",
+      "subtotal": 2150,
+      "tax": 148,
+      "autogratuity": 323,
+      "tip": 151,
+      "total": 2621,
+      "timestamp": "2021-10-12T17:42:39.374Z",
+      "items": [
+        {
+          "id": 31586176,
+          "name": "Blue Bee Mill Race Bramble Cider",
+          "price": 1000,
+          "quantity": 1
+        },
+        {
+          "id": 31585678,
+          "name": "Blue Bee 2018 Aragon 1904 Cider",
+          "price": 1000,
+          "quantity": 1
+        },
+        {
+          "id": 31585684,
+          "name": "Day Old Pastry",
+          "price": 150,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089732,
+      "name": "LOGAN DAVIS",
+      "subtotal": 2875,
+      "tax": 198,
+      "autogratuity": 431,
+      "tip": 201,
+      "total": 3504,
+      "timestamp": "2021-10-12T17:41:31.761Z",
+      "items": [
+        {
+          "id": 31585671,
+          "name": "Maine Root Ginger Brew (16oz)",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 31585685,
+          "name": "Egg and Cheese",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31585695,
+          "name": "Day Old Pastry",
+          "price": 150,
+          "quantity": 1
+        },
+        {
+          "id": 31585711,
+          "name": "Ahi Tuna Poke",
+          "price": 1400,
+          "quantity": 1
+        },
+        {
+          "id": 31585719,
+          "name": "Matcha Latte",
+          "price": 425,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089727,
+      "name": "KAI STONE",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 21,
+      "total": 366,
+      "timestamp": "2021-10-12T17:40:33.705Z",
+      "items": [
+        {
+          "id": 31585654,
+          "name": "Drip Coffee",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089725,
+      "name": "CAMILA SIMPSON",
+      "subtotal": 1000,
+      "tax": 69,
+      "autogratuity": 150,
+      "tip": 0,
+      "total": 1219,
+      "timestamp": "2021-10-12T17:40:22.669Z",
+      "items": [
+        {
+          "id": 31585659,
+          "name": "Kid's Chicken Tenders",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089724,
+      "name": "OWEN HUNT",
+      "subtotal": 800,
+      "tax": 55,
+      "autogratuity": 120,
+      "tip": 80,
+      "total": 975,
+      "timestamp": "2021-10-12T17:39:39.869Z",
+      "items": [
+        {
+          "id": 31585656,
+          "name": "Macaroni & Cheese",
+          "price": 800,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089700,
+      "name": "MADISON BRADLEY",
+      "subtotal": 600,
+      "tax": 41,
+      "autogratuity": 90,
+      "tip": 60,
+      "total": 731,
+      "timestamp": "2021-10-12T17:33:26.125Z",
+      "items": [
+        {
+          "id": 31585639,
+          "name": "Golden Milk Latte",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089693,
+      "name": "JULIAN VELAZQU",
+      "subtotal": 1425,
+      "tax": 99,
+      "autogratuity": 214,
+      "tip": 100,
+      "total": 1738,
+      "timestamp": "2021-10-12T17:31:51.812Z",
+      "items": [
+        {
+          "id": 31585618,
+          "name": "Americano",
+          "price": 1125,
+          "quantity": 1
+        },
+        {
+          "id": 31586207,
+          "name": "Chamomile Rye Table Beer - $3 Pints Until It's Gone!",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089633,
+      "name": "HAZEL PAYNE",
+      "subtotal": 1650,
+      "tax": 114,
+      "autogratuity": 248,
+      "tip": 116,
+      "total": 2012,
+      "timestamp": "2021-10-12T17:20:07.259Z",
+      "items": [
+        {
+          "id": 31585994,
+          "name": "Hot Tea",
+          "price": 225,
+          "quantity": 1
+        },
+        {
+          "id": 31585523,
+          "name": "Shenandoah Smoked Chicken Toast",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "id": 31585526,
+          "name": "Hot Tea",
+          "price": 225,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089625,
+      "name": "RILEY ARMSTRONG",
+      "subtotal": 1900,
+      "tax": 131,
+      "autogratuity": 285,
+      "tip": 133,
+      "total": 2316,
+      "timestamp": "2021-10-12T17:18:47.255Z",
+      "items": [
+        {
+          "id": 31585506,
+          "name": "Taphouse Burger",
+          "price": 1600,
+          "quantity": 1
+        },
+        {
+          "id": 31585514,
+          "name": "Maine Root Mexicane Cola (16oz)",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089618,
+      "name": "ELLA WOODS",
+      "subtotal": 1700,
+      "tax": 117,
+      "autogratuity": 255,
+      "tip": 119,
+      "total": 2072,
+      "timestamp": "2021-10-12T17:18:02.883Z",
+      "items": [
+        {
+          "id": 31585507,
+          "name": "Grilled Cheese",
+          "price": 900,
+          "quantity": 1
+        },
+        {
+          "id": 31585511,
+          "name": "Market Salad",
+          "price": 800,
+          "quantity": 1
+        },
+        {
+          "id": 31585515,
+          "name": "Water (Comes in 32oz packer)",
+          "price": 0,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089575,
+      "name": "HUDSON TERRY",
+      "subtotal": 600,
+      "tax": 41,
+      "autogratuity": 90,
+      "tip": 42,
+      "total": 731,
+      "timestamp": "2021-10-12T17:11:28.982Z",
+      "items": [
+        {
+          "id": 31585466,
+          "name": "Mexican Mocha",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089567,
+      "name": "KAI FOREMAN",
+      "subtotal": 1300,
+      "tax": 90,
+      "autogratuity": 195,
+      "tip": 156,
+      "total": 1585,
+      "timestamp": "2021-10-12T17:09:38.241Z",
+      "items": [
+        {
+          "id": 31585445,
+          "name": "Egg and Cheese",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31585446,
+          "name": "Golden Dragon",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089566,
+      "name": "AVERY DELACR",
+      "subtotal": 1150,
+      "tax": 79,
+      "autogratuity": 173,
+      "tip": 81,
+      "total": 1402,
+      "timestamp": "2021-10-12T17:09:32.201Z",
+      "items": [
+        {
+          "id": 31585479,
+          "name": "Mocha",
+          "price": 650,
+          "quantity": 1
+        },
+        {
+          "id": 31585504,
+          "name": "Fried Pickle Chips",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089549,
+      "name": "IVY BURNS",
+      "subtotal": 1050,
+      "tax": 72,
+      "autogratuity": 158,
+      "tip": 126,
+      "total": 1280,
+      "timestamp": "2021-10-12T17:05:25.470Z",
+      "items": [
+        {
+          "id": 31585419,
+          "name": "Drip Coffee",
+          "price": 275,
+          "quantity": 1
+        },
+        {
+          "id": 31585430,
+          "name": "Latte",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31585434,
+          "name": "Drip Coffee",
+          "price": 275,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089548,
+      "name": "EVERLY WELLS",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 84,
+      "total": 1463,
+      "timestamp": "2021-10-12T17:05:24.870Z",
+      "items": [
+        {
+          "id": 31585420,
+          "name": "Vienna, VA Lager",
+          "price": 600,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 9089547,
+      "name": "NAOMI PIERCE",
+      "subtotal": 2075,
+      "tax": 143,
+      "autogratuity": 311,
+      "tip": 303,
+      "total": 2529,
+      "timestamp": "2021-10-12T17:05:19.460Z",
+      "items": [
+        {
+          "id": 31585416,
+          "name": "Cappuccino",
+          "price": 575,
+          "quantity": 1
+        },
+        {
+          "id": 31585418,
+          "name": "TBLT",
+          "price": 1500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089523,
+      "name": "PENELOPE REED",
+      "subtotal": 1800,
+      "tax": 124,
+      "autogratuity": 270,
+      "tip": 126,
+      "total": 2194,
+      "timestamp": "2021-10-12T17:00:14.561Z",
+      "items": [
+        {
+          "id": 31585394,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31585422,
+          "name": "Buddha Bowl",
+          "price": 1300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089520,
+      "name": "NOVA PARKER",
+      "subtotal": 1225,
+      "tax": 85,
+      "autogratuity": 184,
+      "tip": 86,
+      "total": 1494,
+      "timestamp": "2021-10-12T16:59:39.364Z",
+      "items": [
+        {
+          "id": 31585423,
+          "name": "Cappuccino",
+          "price": 425,
+          "quantity": 1
+        },
+        {
+          "id": 31585469,
+          "name": "Taco Tuesday!",
+          "price": 800,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089499,
+      "name": "GRACE BREWER",
+      "subtotal": 1800,
+      "tax": 124,
+      "autogratuity": 270,
+      "tip": 0,
+      "total": 2194,
+      "timestamp": "2021-10-12T16:54:21.272Z",
+      "items": [
+        {
+          "id": 31585345,
+          "name": "Grilled Cheese",
+          "price": 900,
+          "quantity": 1
+        },
+        {
+          "id": 31585347,
+          "name": "Grilled Cheese",
+          "price": 900,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089496,
+      "name": "ELLIE LE",
+      "subtotal": 2800,
+      "tax": 193,
+      "autogratuity": 420,
+      "tip": 336,
+      "total": 3413,
+      "timestamp": "2021-10-12T16:53:58.594Z",
+      "items": [
+        {
+          "id": 31585341,
+          "name": "Hop To It Mahogany Ale",
+          "price": 300,
+          "quantity": 2
+        },
+        {
+          "id": 31585349,
+          "name": "Shenandoah Smoked Chicken Toast",
+          "price": 1300,
+          "quantity": 1
+        },
+        {
+          "id": 31585373,
+          "name": "Grilled Cheese",
+          "price": 900,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089480,
+      "name": "LUKE RODRIGUEZ",
+      "subtotal": 3200,
+      "tax": 221,
+      "autogratuity": 480,
+      "tip": 320,
+      "total": 3901,
+      "timestamp": "2021-10-12T16:50:23.841Z",
+      "items": [
+        {
+          "id": 31585315,
+          "name": "Fried Chicken Sandwich",
+          "price": 1700,
+          "quantity": 1
+        },
+        {
+          "id": 31585333,
+          "name": "Fried Chicken Sandwich",
+          "price": 1500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089460,
+      "name": "DAVID JONES",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 21,
+      "total": 366,
+      "timestamp": "2021-10-12T16:44:53.553Z",
+      "items": [
+        {
+          "id": 31585311,
+          "name": "Espresso",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089443,
+      "name": "NOVA MCMAHON",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 144,
+      "total": 1463,
+      "timestamp": "2021-10-12T16:40:51.845Z",
+      "items": [
+        {
+          "id": 31585233,
+          "name": "Oatmeal Latte",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31585247,
+          "name": "Kid's Grilled Cheese",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089436,
+      "name": "LUCAS FOREMAN",
+      "subtotal": 1175,
+      "tax": 81,
+      "autogratuity": 176,
+      "tip": 82,
+      "total": 1432,
+      "timestamp": "2021-10-12T16:39:35.856Z",
+      "items": [
+        {
+          "id": 31585230,
+          "name": "Cortado",
+          "price": 375,
+          "quantity": 1
+        },
+        {
+          "id": 31585255,
+          "name": "Taco Tuesday!",
+          "price": 800,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089420,
+      "name": "HENRY RODRIGUEZ",
+      "subtotal": 1650,
+      "tax": 114,
+      "autogratuity": 248,
+      "tip": 400,
+      "total": 2012,
+      "timestamp": "2021-10-12T16:36:22.562Z",
+      "items": [
+        {
+          "id": 31585156,
+          "name": "Seltzer Water (16oz)",
+          "price": 50,
+          "quantity": 1
+        },
+        {
+          "id": 31585164,
+          "name": "Fried Pickle Chips",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31585200,
+          "name": "Avocado Toast",
+          "price": 1100,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089418,
+      "name": "NOAH FREEMAN",
+      "subtotal": 1900,
+      "tax": 131,
+      "autogratuity": 285,
+      "tip": 400,
+      "total": 2316,
+      "timestamp": "2021-10-12T16:36:13.522Z",
+      "items": [
+        {
+          "id": 31585186,
+          "name": "Shenandoah Smoked Chicken Toast",
+          "price": 1300,
+          "quantity": 1
+        },
+        {
+          "id": 31585212,
+          "name": "Green Dragon",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089413,
+      "name": "WILLOW HANSON",
+      "subtotal": 1350,
+      "tax": 93,
+      "autogratuity": 203,
+      "tip": 135,
+      "total": 1646,
+      "timestamp": "2021-10-12T16:34:49.987Z",
+      "items": [
+        {
+          "id": 31585150,
+          "name": "Market Salad",
+          "price": 1300,
+          "quantity": 1
+        },
+        {
+          "id": 31585153,
+          "name": "Seltzer Water (16oz)",
+          "price": 50,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089377,
+      "name": "BENJAMIN KIM",
+      "subtotal": 1400,
+      "tax": 97,
+      "autogratuity": 210,
+      "tip": 0,
+      "total": 1707,
+      "timestamp": "2021-10-12T16:26:22.674Z",
+      "items": [
+        {
+          "id": 31585237,
+          "name": "Fried Chicken Sandwich",
+          "price": 1400,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089311,
+      "name": "NORA LUCAS",
+      "subtotal": 3925,
+      "tax": 271,
+      "autogratuity": 589,
+      "tip": 275,
+      "total": 4785,
+      "timestamp": "2021-10-12T16:15:31.512Z",
+      "items": [
+        {
+          "id": 31584935,
+          "name": "Espresso Macchiato",
+          "price": 425,
+          "quantity": 1
+        },
+        {
+          "id": 31584966,
+          "name": "Wasser Pilsner",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31584973,
+          "name": "Ahi Tuna Poke",
+          "price": 1400,
+          "quantity": 1
+        },
+        {
+          "id": 31584985,
+          "name": "Macaroni & Cheese",
+          "price": 800,
+          "quantity": 1
+        },
+        {
+          "id": 31585316,
+          "name": "Oktoberfest Marzen",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089309,
+      "name": "MAVERICK GRANT",
+      "subtotal": 1000,
+      "tax": 69,
+      "autogratuity": 150,
+      "tip": 100,
+      "total": 1219,
+      "timestamp": "2021-10-12T16:15:23.787Z",
+      "items": [
+        {
+          "id": 31584923,
+          "name": "Fried Pickle Chips",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31584924,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089301,
+      "name": "LUCA HUBER",
+      "subtotal": 3525,
+      "tax": 243,
+      "autogratuity": 529,
+      "tip": 423,
+      "total": 4297,
+      "timestamp": "2021-10-12T16:13:57.974Z",
+      "items": [
+        {
+          "id": 31584919,
+          "name": "Fried Chicken Sandwich",
+          "price": 1500,
+          "quantity": 1
+        },
+        {
+          "id": 31584928,
+          "name": "Fried Chicken Sandwich",
+          "price": 1500,
+          "quantity": 1
+        },
+        {
+          "id": 31584936,
+          "name": "Seltzer Water (16oz)",
+          "price": 50,
+          "quantity": 2
+        },
+        {
+          "id": 31584976,
+          "name": "Daily Brewed Iced Tea",
+          "price": 425,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089298,
+      "name": "ARIA ANDERSON",
+      "subtotal": 2500,
+      "tax": 173,
+      "autogratuity": 375,
+      "tip": 175,
+      "total": 3048,
+      "timestamp": "2021-10-12T16:12:54.423Z",
+      "items": [
+        {
+          "id": 31584911,
+          "name": "Shenandoah Smoked Chicken Toast",
+          "price": 1300,
+          "quantity": 1
+        },
+        {
+          "id": 31584934,
+          "name": "Mimosa",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089289,
+      "name": "OLIVER MORENO",
+      "subtotal": 950,
+      "tax": 66,
+      "autogratuity": 143,
+      "tip": 50,
+      "total": 1159,
+      "timestamp": "2021-10-12T16:11:41.113Z",
+      "items": [
+        {
+          "id": 31584886,
+          "name": "Macaroni & Cheese",
+          "price": 950,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089259,
+      "name": "BENJAMIN CHAVEZ",
+      "subtotal": 1300,
+      "tax": 90,
+      "autogratuity": 195,
+      "tip": 91,
+      "total": 1585,
+      "timestamp": "2021-10-12T16:07:00.111Z",
+      "items": [
+        {
+          "id": 31584843,
+          "name": "TBLT",
+          "price": 1300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089227,
+      "name": "JOHN SULLIVAN",
+      "subtotal": 1475,
+      "tax": 102,
+      "autogratuity": 221,
+      "tip": 103,
+      "total": 1798,
+      "timestamp": "2021-10-12T16:03:25.222Z",
+      "items": [
+        {
+          "id": 31584834,
+          "name": "Latte",
+          "price": 725,
+          "quantity": 1
+        },
+        {
+          "id": 31584845,
+          "name": "Blue Matcha Latte",
+          "price": 750,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089202,
+      "name": "AIDEN GILBERT",
+      "subtotal": 700,
+      "tax": 48,
+      "autogratuity": 105,
+      "tip": 49,
+      "total": 853,
+      "timestamp": "2021-10-12T15:56:37.423Z",
+      "items": [
+        {
+          "id": 31584737,
+          "name": "Egg and Cheese",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089167,
+      "name": "AURORA JOHNSON",
+      "subtotal": 2000,
+      "tax": 138,
+      "autogratuity": 300,
+      "tip": 140,
+      "total": 2438,
+      "timestamp": "2021-10-12T15:48:52.682Z",
+      "items": [
+        {
+          "id": 31584663,
+          "name": "Wasser Pilsner",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31584672,
+          "name": "Ahi Tuna Poke",
+          "price": 1400,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089162,
+      "name": "AVA ADAMS",
+      "subtotal": 900,
+      "tax": 62,
+      "autogratuity": 135,
+      "tip": 90,
+      "total": 1097,
+      "timestamp": "2021-10-12T15:48:16.378Z",
+      "items": [
+        {
+          "id": 31584653,
+          "name": "Grilled Cheese",
+          "price": 900,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089153,
+      "name": "GRACE FOX",
+      "subtotal": 2400,
+      "tax": 166,
+      "autogratuity": 360,
+      "tip": 288,
+      "total": 2926,
+      "timestamp": "2021-10-12T15:47:10.720Z",
+      "items": [
+        {
+          "id": 31584655,
+          "name": "Citra Session IPA",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31584668,
+          "name": "Fried Pickle Chips",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31584698,
+          "name": "Spicy Pepper Ham Sandwich",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089148,
+      "name": "MATEO JACOBS",
+      "subtotal": 1450,
+      "tax": 100,
+      "autogratuity": 218,
+      "tip": 0,
+      "total": 1768,
+      "timestamp": "2021-10-12T15:43:00.722Z",
+      "items": [
+        {
+          "id": 31584621,
+          "name": "Ahi Tuna Poke",
+          "price": 1400,
+          "quantity": 1
+        },
+        {
+          "id": 31584628,
+          "name": "Seltzer Water (16oz)",
+          "price": 50,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089147,
+      "name": "KAI ORTIZ",
+      "subtotal": 1400,
+      "tax": 97,
+      "autogratuity": 210,
+      "tip": 0,
+      "total": 1707,
+      "timestamp": "2021-10-12T15:42:58.178Z",
+      "items": [
+        {
+          "id": 31584629,
+          "name": "Ahi Tuna Poke",
+          "price": 1400,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089140,
+      "name": "WILLOW PIERCE",
+      "subtotal": 900,
+      "tax": 62,
+      "autogratuity": 135,
+      "tip": 63,
+      "total": 1097,
+      "timestamp": "2021-10-12T15:42:00.899Z",
+      "items": [
+        {
+          "id": 31585348,
+          "name": "Market Salad",
+          "price": 900,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089037,
+      "name": "JOSEPH SIMMONS",
+      "subtotal": 650,
+      "tax": 45,
+      "autogratuity": 98,
+      "tip": 46,
+      "total": 793,
+      "timestamp": "2021-10-12T15:14:04.722Z",
+      "items": [
+        {
+          "id": 31584443,
+          "name": "Latte",
+          "price": 650,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089022,
+      "name": "VIOLET MORALES",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 84,
+      "total": 1463,
+      "timestamp": "2021-10-12T15:10:12.780Z",
+      "items": [
+        {
+          "id": 31584437,
+          "name": "Grilled Cheese",
+          "price": 900,
+          "quantity": 1
+        },
+        {
+          "id": 31584453,
+          "name": "Maine Root Lemonade (16oz)",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9089016,
+      "name": "MILA SIMPSON",
+      "subtotal": 3700,
+      "tax": 255,
+      "autogratuity": 555,
+      "tip": 800,
+      "total": 4510,
+      "timestamp": "2021-10-12T15:08:51.261Z",
+      "items": [
+        {
+          "id": 31584423,
+          "name": "Spicy Pepper Ham Sandwich",
+          "price": 1300,
+          "quantity": 1
+        },
+        {
+          "id": 31584427,
+          "name": "Grilled Cheese",
+          "price": 1000,
+          "quantity": 1
+        },
+        {
+          "id": 31584430,
+          "name": "Fresh Chickpea Hummus",
+          "price": 800,
+          "quantity": 1
+        },
+        {
+          "id": 31584436,
+          "name": "Maine Root Root Beer (16oz)",
+          "price": 300,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 9089000,
+      "name": "ISABELLA REYNOLDS",
+      "subtotal": 2200,
+      "tax": 152,
+      "autogratuity": 330,
+      "tip": 154,
+      "total": 2682,
+      "timestamp": "2021-10-12T15:04:50.860Z",
+      "items": [
+        {
+          "id": 31584428,
+          "name": "Taphouse Burger",
+          "price": 1600,
+          "quantity": 1
+        },
+        {
+          "id": 31584439,
+          "name": "Cafe Au Lait",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088996,
+      "name": "ZOEY CALDWELL",
+      "subtotal": 2300,
+      "tax": 159,
+      "autogratuity": 345,
+      "tip": 100,
+      "total": 2804,
+      "timestamp": "2021-10-12T15:04:01.463Z",
+      "items": [
+        {
+          "id": 31584363,
+          "name": "Avocado Toast",
+          "price": 1300,
+          "quantity": 1
+        },
+        {
+          "id": 31584365,
+          "name": "Blue Bee Mill Race Bramble Cider",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088994,
+      "name": "ELIZABETH YOUNG",
+      "subtotal": 950,
+      "tax": 66,
+      "autogratuity": 143,
+      "tip": 81,
+      "total": 1159,
+      "timestamp": "2021-10-12T15:02:30.103Z",
+      "items": [
+        {
+          "id": 31584356,
+          "name": "Macaroni & Cheese",
+          "price": 950,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088982,
+      "name": "SEBASTIAN HENRY",
+      "subtotal": 2575,
+      "tax": 178,
+      "autogratuity": 386,
+      "tip": 258,
+      "total": 3139,
+      "timestamp": "2021-10-12T14:59:36.151Z",
+      "items": [
+        {
+          "id": 31584495,
+          "name": "Fried Chicken Sandwich",
+          "price": 1500,
+          "quantity": 1
+        },
+        {
+          "id": 31586111,
+          "name": "Affogato",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31584329,
+          "name": "Cafe Au Lait",
+          "price": 375,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088981,
+      "name": "MATTHEW NELSON",
+      "subtotal": 5435,
+      "tax": 375,
+      "autogratuity": 815,
+      "tip": 662,
+      "total": 6625,
+      "timestamp": "2021-10-12T14:59:14.994Z",
+      "items": [
+        {
+          "id": 31584327,
+          "name": "Cappuccino",
+          "price": 425,
+          "quantity": 1
+        },
+        {
+          "id": 31584328,
+          "name": "Hot Tea",
+          "price": 225,
+          "quantity": 1
+        },
+        {
+          "id": 31584339,
+          "name": "Lone Oak Drip Dead",
+          "price": 1595,
+          "quantity": 1
+        },
+        {
+          "id": 31584342,
+          "name": "Lone Oak Decaf House",
+          "price": 1595,
+          "quantity": 1
+        },
+        {
+          "id": 31584343,
+          "name": "Lone Oak Mexico Chiapas",
+          "price": 1595,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088980,
+      "name": "ELIANA FRANKLIN",
+      "subtotal": 550,
+      "tax": 38,
+      "autogratuity": 83,
+      "tip": 100,
+      "total": 671,
+      "timestamp": "2021-10-12T14:59:13.692Z",
+      "items": [
+        {
+          "id": 31584354,
+          "name": "Day Old Pastry",
+          "price": 150,
+          "quantity": 1
+        },
+        {
+          "id": 31584355,
+          "name": "Pour Over",
+          "price": 400,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088960,
+      "name": "SAMUEL GREEN",
+      "subtotal": 800,
+      "tax": 56,
+      "autogratuity": 120,
+      "tip": 56,
+      "total": 976,
+      "timestamp": "2021-10-12T14:53:03.981Z",
+      "items": [
+        {
+          "id": 31584461,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 1
+        },
+        {
+          "id": 31584235,
+          "name": "Italian Cream Soda (16oz)",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088956,
+      "name": "HARPER COLEMAN",
+      "subtotal": 1350,
+      "tax": 93,
+      "autogratuity": 203,
+      "tip": 95,
+      "total": 1646,
+      "timestamp": "2021-10-12T14:52:30.176Z",
+      "items": [
+        {
+          "id": 31584253,
+          "name": "Breakfast Burrito",
+          "price": 800,
+          "quantity": 1
+        },
+        {
+          "id": 31584256,
+          "name": "Latte",
+          "price": 550,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088943,
+      "name": "IVY HOLMES",
+      "subtotal": 500,
+      "tax": 35,
+      "autogratuity": 75,
+      "tip": 35,
+      "total": 610,
+      "timestamp": "2021-10-12T14:47:55.246Z",
+      "items": [
+        {
+          "id": 31584412,
+          "name": "Matcha Latte",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088924,
+      "name": "MASON ROBERTS",
+      "subtotal": 700,
+      "tax": 48,
+      "autogratuity": 105,
+      "tip": 0,
+      "total": 853,
+      "timestamp": "2021-10-12T14:45:07.554Z",
+      "items": [
+        {
+          "id": 31584193,
+          "name": "Ramsay's Eggs",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088916,
+      "name": "NAOMI HICKS",
+      "subtotal": 1150,
+      "tax": 79,
+      "autogratuity": 173,
+      "tip": 81,
+      "total": 1402,
+      "timestamp": "2021-10-12T14:42:41.229Z",
+      "items": [
+        {
+          "id": 31584175,
+          "name": "Caboose Hash",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31584178,
+          "name": "Apple Turnover",
+          "price": 450,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088913,
+      "name": "ARIA BARNETT",
+      "subtotal": 700,
+      "tax": 48,
+      "autogratuity": 105,
+      "tip": 81,
+      "total": 853,
+      "timestamp": "2021-10-12T14:42:32.839Z",
+      "items": [
+        {
+          "id": 31584177,
+          "name": "Caboose Hash",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31584225,
+          "name": "Apple Turnover",
+          "price": 0,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088911,
+      "name": "ELENA HYDE",
+      "subtotal": 2900,
+      "tax": 200,
+      "autogratuity": 435,
+      "tip": 203,
+      "total": 3535,
+      "timestamp": "2021-10-12T14:42:30.083Z",
+      "items": [
+        {
+          "id": 31585243,
+          "name": "Market Salad",
+          "price": 800,
+          "quantity": 1
+        },
+        {
+          "id": 31585248,
+          "name": "Hop To It Mahogany Ale",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31584497,
+          "name": "Trails End Tripel",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31584198,
+          "name": "Oktoberfest Marzen",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088910,
+      "name": "AIDEN BELL",
+      "subtotal": 1850,
+      "tax": 128,
+      "autogratuity": 278,
+      "tip": 130,
+      "total": 2256,
+      "timestamp": "2021-10-12T14:42:27.600Z",
+      "items": [
+        {
+          "id": 31584173,
+          "name": "Apple Turnover",
+          "price": 450,
+          "quantity": 3
+        },
+        {
+          "id": 31584183,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088908,
+      "name": "VIOLET ROBINSON",
+      "subtotal": 850,
+      "tax": 59,
+      "autogratuity": 128,
+      "tip": 85,
+      "total": 1037,
+      "timestamp": "2021-10-12T14:42:02.108Z",
+      "items": [
+        {
+          "id": 31584172,
+          "name": "Cappuccino",
+          "price": 425,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 9088873,
+      "name": "RILEY WARREN",
+      "subtotal": 575,
+      "tax": 40,
+      "autogratuity": 86,
+      "tip": 40,
+      "total": 701,
+      "timestamp": "2021-10-12T14:28:41.486Z",
+      "items": [
+        {
+          "id": 31584124,
+          "name": "Mocha",
+          "price": 575,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088854,
+      "name": "ZOEY MILLS",
+      "subtotal": 600,
+      "tax": 41,
+      "autogratuity": 90,
+      "tip": 60,
+      "total": 731,
+      "timestamp": "2021-10-12T14:20:53.368Z",
+      "items": [
+        {
+          "id": 31584080,
+          "name": "Pumpkin Pie Latte",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088822,
+      "name": "NOVA FRANKLIN",
+      "subtotal": 425,
+      "tax": 29,
+      "autogratuity": 64,
+      "tip": 30,
+      "total": 518,
+      "timestamp": "2021-10-12T14:09:53.010Z",
+      "items": [
+        {
+          "id": 31584060,
+          "name": "Cappuccino",
+          "price": 425,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088819,
+      "name": "JOHN HUGHES",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 120,
+      "total": 1463,
+      "timestamp": "2021-10-12T14:09:16.352Z",
+      "items": [
+        {
+          "id": 31584052,
+          "name": "Avocado Toast",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088804,
+      "name": "SEBASTIAN ALVAREZ",
+      "subtotal": 275,
+      "tax": 19,
+      "autogratuity": 41,
+      "tip": 23,
+      "total": 335,
+      "timestamp": "2021-10-12T14:04:08.147Z",
+      "items": [
+        {
+          "id": 31584017,
+          "name": "Drip Coffee",
+          "price": 275,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088799,
+      "name": "KAI SIMS",
+      "subtotal": 2300,
+      "tax": 159,
+      "autogratuity": 345,
+      "tip": 200,
+      "total": 2804,
+      "timestamp": "2021-10-12T14:01:26.752Z",
+      "items": [
+        {
+          "id": 31584008,
+          "name": "Golden Milk Latte",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31584009,
+          "name": "Juice",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 31584013,
+          "name": "Caboose Hash",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31584015,
+          "name": "Ramsay's Eggs",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088773,
+      "name": " FOREMAN",
+      "subtotal": 1075,
+      "tax": 74,
+      "autogratuity": 161,
+      "tip": 75,
+      "total": 1310,
+      "timestamp": "2021-10-12T13:50:24.660Z",
+      "items": [
+        {
+          "id": 31583966,
+          "name": "Drip Coffee",
+          "price": 275,
+          "quantity": 1
+        },
+        {
+          "id": 31583967,
+          "name": "Apple Turnover",
+          "price": 450,
+          "quantity": 1
+        },
+        {
+          "id": 31583969,
+          "name": "Croissant",
+          "price": 350,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088772,
+      "name": "JOSIAH COX",
+      "subtotal": 1300,
+      "tax": 90,
+      "autogratuity": 195,
+      "tip": 156,
+      "total": 1585,
+      "timestamp": "2021-10-12T13:49:55.530Z",
+      "items": [
+        {
+          "id": 31583968,
+          "name": "Oatmeal Latte",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31583972,
+          "name": "Caboose Hash",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088770,
+      "name": "CHLOE DAVIS",
+      "subtotal": 425,
+      "tax": 29,
+      "autogratuity": 64,
+      "tip": 30,
+      "total": 518,
+      "timestamp": "2021-10-12T13:49:27.372Z",
+      "items": [
+        {
+          "id": 31583964,
+          "name": "Cappuccino",
+          "price": 425,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088769,
+      "name": "HENRY COLE",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 21,
+      "total": 366,
+      "timestamp": "2021-10-12T13:49:02.314Z",
+      "items": [
+        {
+          "id": 31584057,
+          "name": "Drip Coffee",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088762,
+      "name": "LUCAS MILES",
+      "subtotal": 500,
+      "tax": 35,
+      "autogratuity": 75,
+      "tip": 35,
+      "total": 610,
+      "timestamp": "2021-10-12T13:46:43.557Z",
+      "items": [
+        {
+          "id": 31583959,
+          "name": "Mocha",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088760,
+      "name": "MASON BREWER",
+      "subtotal": 775,
+      "tax": 53,
+      "autogratuity": 116,
+      "tip": 54,
+      "total": 944,
+      "timestamp": "2021-10-12T13:46:06.142Z",
+      "items": [
+        {
+          "id": 31583963,
+          "name": "Sticky Bun",
+          "price": 350,
+          "quantity": 1
+        },
+        {
+          "id": 31583965,
+          "name": "Cappuccino",
+          "price": 425,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088755,
+      "name": "SAMUEL CARTER",
+      "subtotal": 600,
+      "tax": 41,
+      "autogratuity": 90,
+      "tip": 60,
+      "total": 731,
+      "timestamp": "2021-10-12T13:43:27.992Z",
+      "items": [
+        {
+          "id": 31583952,
+          "name": "Oatmeal Latte",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088747,
+      "name": "LUCAS WILLIAMS",
+      "subtotal": 850,
+      "tax": 59,
+      "autogratuity": 128,
+      "tip": 60,
+      "total": 1037,
+      "timestamp": "2021-10-12T13:39:25.810Z",
+      "items": [
+        {
+          "id": 31583944,
+          "name": "Latte",
+          "price": 425,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "id": 9088738,
+      "name": "NOAH BOYLE",
+      "subtotal": 1700,
+      "tax": 117,
+      "autogratuity": 255,
+      "tip": 119,
+      "total": 2072,
+      "timestamp": "2021-10-12T13:35:17.928Z",
+      "items": [
+        {
+          "id": 31583923,
+          "name": "Commons' Shrimp & Grits",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "id": 31583924,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088737,
+      "name": "EMMA TORRES",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 21,
+      "total": 366,
+      "timestamp": "2021-10-12T13:34:48.390Z",
+      "items": [
+        {
+          "id": 31583920,
+          "name": "Drip Coffee",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088714,
+      "name": "MIA MCDONALD",
+      "subtotal": 1375,
+      "tax": 95,
+      "autogratuity": 206,
+      "tip": 500,
+      "total": 1676,
+      "timestamp": "2021-10-12T13:26:34.922Z",
+      "items": [
+        {
+          "id": 31583892,
+          "name": "Latte",
+          "price": 575,
+          "quantity": 1
+        },
+        {
+          "id": 31583897,
+          "name": "Breakfast Burrito",
+          "price": 800,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088702,
+      "name": "EMMA STANLEY",
+      "subtotal": 2825,
+      "tax": 195,
+      "autogratuity": 424,
+      "tip": 198,
+      "total": 3444,
+      "timestamp": "2021-10-12T13:19:51.088Z",
+      "items": [
+        {
+          "id": 31583870,
+          "name": "Drip Coffee",
+          "price": 275,
+          "quantity": 1
+        },
+        {
+          "id": 31583872,
+          "name": "Latte",
+          "price": 425,
+          "quantity": 1
+        },
+        {
+          "id": 31583873,
+          "name": "Caboose Hash",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31583874,
+          "name": "Ramsay's Eggs",
+          "price": 1125,
+          "quantity": 1
+        },
+        {
+          "id": 31583875,
+          "name": "Apple Cinnamon Breakfast Loaf Slice",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088694,
+      "name": "ISAIAH PERRY",
+      "subtotal": 800,
+      "tax": 55,
+      "autogratuity": 120,
+      "tip": 80,
+      "total": 975,
+      "timestamp": "2021-10-12T13:16:16.699Z",
+      "items": [
+        {
+          "id": 31583866,
+          "name": "Caboose Hash",
+          "price": 800,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088685,
+      "name": "HAZEL DEJESUS",
+      "subtotal": 1175,
+      "tax": 81,
+      "autogratuity": 176,
+      "tip": 118,
+      "total": 1432,
+      "timestamp": "2021-10-12T13:10:41.398Z",
+      "items": [
+        {
+          "id": 31583858,
+          "name": "Breakfast Burrito",
+          "price": 800,
+          "quantity": 1
+        },
+        {
+          "id": 31583861,
+          "name": "Americano",
+          "price": 375,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088680,
+      "name": "JACKSON RAMIREZ",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 30,
+      "total": 366,
+      "timestamp": "2021-10-12T13:06:31.674Z",
+      "items": [
+        {
+          "id": 31583851,
+          "name": "Drip Coffee",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088678,
+      "name": "AMELIA WELCH",
+      "subtotal": 2350,
+      "tax": 162,
+      "autogratuity": 353,
+      "tip": 282,
+      "total": 2865,
+      "timestamp": "2021-10-12T13:05:05.439Z",
+      "items": [
+        {
+          "id": 31583847,
+          "name": "Cappuccino",
+          "price": 425,
+          "quantity": 2
+        },
+        {
+          "id": 31583848,
+          "name": "Breakfast Burrito",
+          "price": 800,
+          "quantity": 1
+        },
+        {
+          "id": 31583850,
+          "name": "Caboose Hash",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088676,
+      "name": "WILLIAM ALLEN",
+      "subtotal": 400,
+      "tax": 28,
+      "autogratuity": 60,
+      "tip": 28,
+      "total": 488,
+      "timestamp": "2021-10-12T13:03:36.016Z",
+      "items": [
+        {
+          "id": 31583849,
+          "name": "Pour Over",
+          "price": 400,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088667,
+      "name": "MIA GOMEZ",
+      "subtotal": 1025,
+      "tax": 71,
+      "autogratuity": 154,
+      "tip": 72,
+      "total": 1250,
+      "timestamp": "2021-10-12T13:00:25.720Z",
+      "items": [
+        {
+          "id": 31583832,
+          "name": "Latte",
+          "price": 725,
+          "quantity": 1
+        },
+        {
+          "id": 31583834,
+          "name": "Apple Cinnamon Breakfast Loaf Slice",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088657,
+      "name": "LEVI HUNT",
+      "subtotal": 470,
+      "tax": 32,
+      "autogratuity": 71,
+      "tip": 56,
+      "total": 573,
+      "timestamp": "2021-10-12T12:52:35.057Z",
+      "items": [
+        {
+          "id": 31583824,
+          "name": "Cold Brew",
+          "price": 470,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088650,
+      "name": "MATTHEW MATTHEWS",
+      "subtotal": 550,
+      "tax": 38,
+      "autogratuity": 83,
+      "tip": 55,
+      "total": 671,
+      "timestamp": "2021-10-12T12:44:05.566Z",
+      "items": [
+        {
+          "id": 31583821,
+          "name": "Cappuccino",
+          "price": 550,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088645,
+      "name": "AMELIA FRAZIER",
+      "subtotal": 425,
+      "tax": 29,
+      "autogratuity": 64,
+      "tip": 30,
+      "total": 518,
+      "timestamp": "2021-10-12T12:41:54.331Z",
+      "items": [
+        {
+          "id": 31583818,
+          "name": "Cappuccino",
+          "price": 425,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088644,
+      "name": "WYATT MILLER",
+      "subtotal": 1225,
+      "tax": 85,
+      "autogratuity": 184,
+      "tip": 86,
+      "total": 1494,
+      "timestamp": "2021-10-12T12:40:18.961Z",
+      "items": [
+        {
+          "id": 31583815,
+          "name": "Cappuccino",
+          "price": 425,
+          "quantity": 1
+        },
+        {
+          "id": 31583817,
+          "name": "Breakfast Burrito",
+          "price": 800,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088640,
+      "name": "EZRA CLARK",
+      "subtotal": 975,
+      "tax": 67,
+      "autogratuity": 146,
+      "tip": 117,
+      "total": 1188,
+      "timestamp": "2021-10-12T12:38:27.549Z",
+      "items": [
+        {
+          "id": 31583811,
+          "name": "Egg and Cheese",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31583813,
+          "name": "Drip Coffee",
+          "price": 275,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088634,
+      "name": "JACOB GEORGE",
+      "subtotal": 1200,
+      "tax": 83,
+      "autogratuity": 180,
+      "tip": 84,
+      "total": 1463,
+      "timestamp": "2021-10-12T12:37:07.844Z",
+      "items": [
+        {
+          "id": 31583805,
+          "name": "Egg and Cheese",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31583807,
+          "name": "Pumpkin Pie Latte",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088631,
+      "name": "JOSEPH RUSSELL",
+      "subtotal": 1550,
+      "tax": 107,
+      "autogratuity": 233,
+      "tip": 109,
+      "total": 1890,
+      "timestamp": "2021-10-12T12:35:16.081Z",
+      "items": [
+        {
+          "id": 31583809,
+          "name": "Ramsay's Eggs",
+          "price": 800,
+          "quantity": 1
+        },
+        {
+          "id": 31583814,
+          "name": "Pumpkin Pie Chai",
+          "price": 750,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088626,
+      "name": "NORA MORRISON",
+      "subtotal": 1000,
+      "tax": 69,
+      "autogratuity": 150,
+      "tip": 70,
+      "total": 1219,
+      "timestamp": "2021-10-12T12:31:56.615Z",
+      "items": [
+        {
+          "id": 31583804,
+          "name": "Blue Bee 2018 Aragon 1904 Cider",
+          "price": 1000,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088625,
+      "name": "HANNAH HOWARD",
+      "subtotal": 425,
+      "tax": 29,
+      "autogratuity": 64,
+      "tip": 36,
+      "total": 518,
+      "timestamp": "2021-10-12T12:31:26.869Z",
+      "items": [
+        {
+          "id": 31583802,
+          "name": "Cappuccino",
+          "price": 425,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088622,
+      "name": "MICHAEL MYERS",
+      "subtotal": 700,
+      "tax": 48,
+      "autogratuity": 105,
+      "tip": 49,
+      "total": 853,
+      "timestamp": "2021-10-12T12:29:04.092Z",
+      "items": [
+        {
+          "id": 31583800,
+          "name": "Blackberry Gose",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088613,
+      "name": "LINCOLN GRIFFIN",
+      "subtotal": 1000,
+      "tax": 69,
+      "autogratuity": 150,
+      "tip": 70,
+      "total": 1219,
+      "timestamp": "2021-10-12T12:23:13.402Z",
+      "items": [
+        {
+          "id": 31583792,
+          "name": "Americano",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 31583793,
+          "name": "Egg and Cheese",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088608,
+      "name": "ELEANOR ",
+      "subtotal": 300,
+      "tax": 21,
+      "autogratuity": 45,
+      "tip": 21,
+      "total": 366,
+      "timestamp": "2021-10-12T12:16:22.194Z",
+      "items": [
+        {
+          "id": 31583766,
+          "name": "Apple Cinnamon Breakfast Loaf Slice",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088601,
+      "name": "JACKSON BAKER",
+      "subtotal": 700,
+      "tax": 48,
+      "autogratuity": 105,
+      "tip": 98,
+      "total": 853,
+      "timestamp": "2021-10-12T12:12:53.418Z",
+      "items": [
+        {
+          "id": 31583762,
+          "name": "Oktoberfest Marzen",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088599,
+      "name": "EZRA SMITH",
+      "subtotal": 1325,
+      "tax": 91,
+      "autogratuity": 199,
+      "tip": 93,
+      "total": 1615,
+      "timestamp": "2021-10-12T12:11:16.436Z",
+      "items": [
+        {
+          "id": 31583759,
+          "name": "Egg and Cheese",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31583760,
+          "name": "Latte",
+          "price": 725,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088585,
+      "name": "ARIA CURTIS",
+      "subtotal": 2750,
+      "tax": 190,
+      "autogratuity": 413,
+      "tip": 193,
+      "total": 3353,
+      "timestamp": "2021-10-12T12:02:43.266Z",
+      "items": [
+        {
+          "id": 31583745,
+          "name": "Sticky Bun",
+          "price": 350,
+          "quantity": 1
+        },
+        {
+          "id": 31583761,
+          "name": "Mimosa",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "id": 31583973,
+          "name": "Mimosa",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088584,
+      "name": "OLIVER SANCHEZ",
+      "subtotal": 900,
+      "tax": 62,
+      "autogratuity": 135,
+      "tip": 63,
+      "total": 1097,
+      "timestamp": "2021-10-12T12:02:08.166Z",
+      "items": [
+        {
+          "id": 31583749,
+          "name": "Pumpkin Pie Latte",
+          "price": 900,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088582,
+      "name": "MIA BROOKS",
+      "subtotal": 350,
+      "tax": 24,
+      "autogratuity": 53,
+      "tip": 25,
+      "total": 427,
+      "timestamp": "2021-10-12T12:01:44.168Z",
+      "items": [
+        {
+          "id": 31583742,
+          "name": "Drip Coffee",
+          "price": 350,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088577,
+      "name": "LINCOLN ELLIOTT",
+      "subtotal": 2400,
+      "tax": 165,
+      "autogratuity": 360,
+      "tip": 168,
+      "total": 2925,
+      "timestamp": "2021-10-12T11:57:57.075Z",
+      "items": [
+        {
+          "id": 31583738,
+          "name": "Vienna, VA Lager",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31583743,
+          "name": "Avocado Toast",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "id": 31583827,
+          "name": "Vienna, VA Lager",
+          "price": 600,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088570,
+      "name": "HENRY WOODS",
+      "subtotal": 275,
+      "tax": 19,
+      "autogratuity": 41,
+      "tip": 19,
+      "total": 335,
+      "timestamp": "2021-10-12T11:53:35.140Z",
+      "items": [
+        {
+          "id": 31583730,
+          "name": "Drip Coffee",
+          "price": 275,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088569,
+      "name": "WILLOW HILL",
+      "subtotal": 1875,
+      "tax": 129,
+      "autogratuity": 281,
+      "tip": 225,
+      "total": 2285,
+      "timestamp": "2021-10-12T11:53:01.454Z",
+      "items": [
+        {
+          "id": 31584739,
+          "name": "Grilled Cheese",
+          "price": 900,
+          "quantity": 1
+        },
+        {
+          "id": 31583727,
+          "name": "Latte",
+          "price": 575,
+          "quantity": 1
+        },
+        {
+          "id": 31583731,
+          "name": "Steel Cut Oatmeal",
+          "price": 400,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088568,
+      "name": "EMMA REYNOLDS",
+      "subtotal": 2900,
+      "tax": 200,
+      "autogratuity": 435,
+      "tip": 203,
+      "total": 3535,
+      "timestamp": "2021-10-12T11:52:55.770Z",
+      "items": [
+        {
+          "id": 31583820,
+          "name": "Mimosa",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "id": 31583725,
+          "name": "Mimosa",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "id": 31583728,
+          "name": "Fries",
+          "price": 500,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088559,
+      "name": "JOSEPH HOWARD",
+      "subtotal": 700,
+      "tax": 48,
+      "autogratuity": 105,
+      "tip": 49,
+      "total": 853,
+      "timestamp": "2021-10-12T11:48:07.288Z",
+      "items": [
+        {
+          "id": 31583723,
+          "name": "Blackberry Gose",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088558,
+      "name": "MIA WARD",
+      "subtotal": 1900,
+      "tax": 131,
+      "autogratuity": 285,
+      "tip": 133,
+      "total": 2316,
+      "timestamp": "2021-10-12T11:47:03.471Z",
+      "items": [
+        {
+          "id": 31583719,
+          "name": "Caboose Hash",
+          "price": 600,
+          "quantity": 1
+        },
+        {
+          "id": 31583720,
+          "name": "Steel Cut Oatmeal",
+          "price": 400,
+          "quantity": 1
+        },
+        {
+          "id": 31583721,
+          "name": "Cafe Au Lait",
+          "price": 550,
+          "quantity": 1
+        },
+        {
+          "id": 31583722,
+          "name": "Drip Coffee",
+          "price": 350,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088552,
+      "name": "ISAIAH VANG",
+      "subtotal": 1500,
+      "tax": 104,
+      "autogratuity": 225,
+      "tip": 300,
+      "total": 1829,
+      "timestamp": "2021-10-12T11:40:52.333Z",
+      "items": [
+        {
+          "id": 31583711,
+          "name": "Caboose Hash",
+          "price": 800,
+          "quantity": 1
+        },
+        {
+          "id": 31583713,
+          "name": "Oktoberfest Marzen",
+          "price": 700,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088551,
+      "name": "ELEANOR ROSS",
+      "subtotal": 1500,
+      "tax": 104,
+      "autogratuity": 225,
+      "tip": 105,
+      "total": 1829,
+      "timestamp": "2021-10-12T11:40:41.500Z",
+      "items": [
+        {
+          "id": 31583717,
+          "name": "Fog IPA",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31583718,
+          "name": "Caboose Hash",
+          "price": 800,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088550,
+      "name": "JOSEPH CARR",
+      "subtotal": 2350,
+      "tax": 162,
+      "autogratuity": 353,
+      "tip": 165,
+      "total": 2865,
+      "timestamp": "2021-10-12T11:40:08.921Z",
+      "items": [
+        {
+          "id": 31583712,
+          "name": "Mimosa",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "id": 31583714,
+          "name": "Sticky Bun",
+          "price": 350,
+          "quantity": 1
+        },
+        {
+          "id": 31583715,
+          "name": "Caboose Hash",
+          "price": 800,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088549,
+      "name": "NORA WALKER",
+      "subtotal": 3100,
+      "tax": 214,
+      "autogratuity": 465,
+      "tip": 217,
+      "total": 3779,
+      "timestamp": "2021-10-12T11:40:04.904Z",
+      "items": [
+        {
+          "id": 31583830,
+          "name": "Mimosa",
+          "price": 1200,
+          "quantity": 1
+        },
+        {
+          "id": 31583708,
+          "name": "Blackberry Gose",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31583710,
+          "name": "Mimosa",
+          "price": 1200,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088538,
+      "name": "EMMA TUCKER",
+      "subtotal": 975,
+      "tax": 67,
+      "autogratuity": 146,
+      "tip": 68,
+      "total": 1188,
+      "timestamp": "2021-10-12T11:28:02.653Z",
+      "items": [
+        {
+          "id": 31583701,
+          "name": "Egg and Cheese",
+          "price": 700,
+          "quantity": 1
+        },
+        {
+          "id": 31583702,
+          "name": "Drip Coffee",
+          "price": 275,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088536,
+      "name": "EMILIA HART",
+      "subtotal": 695,
+      "tax": 48,
+      "autogratuity": 104,
+      "tip": 49,
+      "total": 847,
+      "timestamp": "2021-10-12T11:26:58.594Z",
+      "items": [
+        {
+          "id": 31583699,
+          "name": "Cold Brew",
+          "price": 395,
+          "quantity": 1
+        },
+        {
+          "id": 31583700,
+          "name": "Side of Bacon",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088532,
+      "name": "LAYLA GUTIERREZ",
+      "subtotal": 525,
+      "tax": 36,
+      "autogratuity": 79,
+      "tip": 35,
+      "total": 640,
+      "timestamp": "2021-10-12T11:24:14.399Z",
+      "items": [
+        {
+          "id": 31583695,
+          "name": "Drip Coffee",
+          "price": 350,
+          "quantity": 1
+        },
+        {
+          "id": 31583698,
+          "name": "Day Old Pastry",
+          "price": 175,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088531,
+      "name": "KAI CRUZ",
+      "subtotal": 450,
+      "tax": 31,
+      "autogratuity": 68,
+      "tip": 32,
+      "total": 549,
+      "timestamp": "2021-10-12T11:23:06.584Z",
+      "items": [
+        {
+          "id": 31583691,
+          "name": "Drip Coffee",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 31583692,
+          "name": "Water (Comes in 32oz packer)",
+          "price": 0,
+          "quantity": 1
+        },
+        {
+          "id": 31583694,
+          "name": "Day Old Pastry",
+          "price": 150,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088527,
+      "name": "LOGAN CARLSON",
+      "subtotal": 2075,
+      "tax": 143,
+      "autogratuity": 311,
+      "tip": 145,
+      "total": 2529,
+      "timestamp": "2021-10-12T11:14:53.973Z",
+      "items": [
+        {
+          "id": 31583684,
+          "name": "Caboose Hash",
+          "price": 900,
+          "quantity": 2
+        },
+        {
+          "id": 31583688,
+          "name": "Drip Coffee",
+          "price": 275,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088526,
+      "name": "LUCA ",
+      "subtotal": 3350,
+      "tax": 231,
+      "autogratuity": 503,
+      "tip": 235,
+      "total": 4084,
+      "timestamp": "2021-10-12T11:14:51.546Z",
+      "items": [
+        {
+          "id": 31583685,
+          "name": "Egg and Cheese",
+          "price": 600,
+          "quantity": 2
+        },
+        {
+          "id": 31583686,
+          "name": "Ramsay's Eggs",
+          "price": 1050,
+          "quantity": 1
+        },
+        {
+          "id": 31583687,
+          "name": "Breakfast Burrito",
+          "price": 800,
+          "quantity": 1
+        },
+        {
+          "id": 31583689,
+          "name": "Side of Bacon",
+          "price": 300,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 9088524,
+      "name": "AVA HICKS",
+      "subtotal": 600,
+      "tax": 41,
+      "autogratuity": 90,
+      "tip": 42,
+      "total": 731,
+      "timestamp": "2021-10-12T11:13:04.156Z",
+      "items": [
+        {
+          "id": 31583680,
+          "name": "Drip Coffee",
+          "price": 275,
+          "quantity": 1
+        },
+        {
+          "id": 31583681,
+          "name": "Side Scrambled Egg",
+          "price": 300,
+          "quantity": 1
+        },
+        {
+          "id": 31583682,
+          "name": "Sauces & Condiments",
+          "price": 25,
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}

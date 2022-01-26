@@ -1,0 +1,50 @@
+<!-- For more documentation on adding state see: https://markojs.com/docs/getting-started/#adding-state -->
+
+import seedData from '../../seed.json';
+
+class {
+  onCreate() {
+    this.state = {previewSeedData: false};
+  }
+
+  onPreviewSeedData() {
+    this.state.previewSeedData = !this.state.previewSeedData;
+  }
+}
+
+style {
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #1D1D1B;
+    background: #FFFFFF;
+    min-height: 100vh;
+    width: 100%;
+  }
+  img.logo {
+    width: 400px;
+  }
+}
+
+<div class="container">
+  <header>
+    <img.logo src="../../assets/gotab-logo.svg" alt="GoTab"/>
+  </header>
+  <main class="col-12">
+    <h1 class="fw-lighter text-center pt-3">Edit <code class="text-primary">./pages/components/content.marko</code> and save to reload.</h1>
+    <div class="w-100 d-flex flex-column justify-content-center align-items-center">
+      <if(state.previewSeedData)>
+        $ {
+          const numberOfTabs = seedData.tabs.length;
+          console.log(`There are ${numberOfTabs} tabs in this dataset:\n`, seedData);
+        }
+        <p class="p-3 m-3 border rounded">Open your developer tools to see the data in the console.</p>
+      </if>
+      <else>
+        <button on-click('onPreviewSeedData') class="btn btn-outline-primary">View Dataset</button>
+      </else>
+    </div>
+  </main>
+</div>

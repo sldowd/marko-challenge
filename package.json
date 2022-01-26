@@ -1,0 +1,24 @@
+{
+  "name": "marko-challenge",
+  "description": "GoTab Code Challenge with Marko",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GoTab-Inc/interview-assessment"
+  },
+  "author": "dannguyen",
+  "license": "ISC",
+  "dependencies": {
+    "marko": "^5"
+  },
+  "devDependencies": {
+    "@marko/build": "^4",
+    "@marko/serve": "^4"
+  },
+  "private": true,
+  "scripts": {
+    "build": "marko-build ./src/pages",
+    "dev": "marko-serve ./src/pages",
+    "start": "NODE_ENV=production node ./build/index.js"
+  }
+}
